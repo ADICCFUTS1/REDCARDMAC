@@ -15,6 +15,21 @@
     }
   },
   {
+    "dt": "1658617200",
+    "Partido": "Bayern München - Manchester City",
+    "Competicion": "Amistoso",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
     "dt": "1658617800",
     "Partido": "Junior - Santa Fe",
     "Competicion": "Liga Dimayor Colombia",
@@ -48,6 +63,21 @@
     "dt": "1658625300",
     "Partido": "Deportes Tolima - Atlético Nacional",
     "Competicion": "Liga Dimayor Colombia",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1658631600",
+    "Partido": "Real Madrid - Barcelona",
+    "Competicion": "Amistoso",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
