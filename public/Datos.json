@@ -19,7 +19,7 @@
     "Partido": "Tigre - Platense",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "http://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -32,6 +32,21 @@
   {
     "dt": "1658687400",
     "Partido": "Aldosivi - River Plate",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1658696400",
+    "Partido": "Gimnasia La Plata - Lanús",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -48,21 +63,6 @@
     "dt": "1658699400",
     "Partido": "América de Cali - Cortuluá",
     "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1658696400",
-    "Partido": "Gimnasia La Plata - Lanús",
-    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
