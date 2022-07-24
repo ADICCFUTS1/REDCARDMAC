@@ -4,21 +4,6 @@
     "Partido": "Independiente - Atlético Tucumán",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "http://react-cms-omega.vercel.app/?txt=10",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1658687400",
-    "Partido": "Tigre - Platense",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -30,7 +15,22 @@
     }
   },
   {
-    "dt": "1658696400",
+    "dt": "1658678400",
+    "Partido": "Tigre - Platense",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "http://react-cms-omega.vercel.app/?txt=0",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1658687400",
     "Partido": "Aldosivi - River Plate",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "dt": "1658705400",
+    "dt": "1658696400",
     "Partido": "Gimnasia La Plata - Lanús",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
@@ -75,7 +75,7 @@
     }
   },
   {
-    "dt": "1658777400",
+    "dt": "1658705400",
     "Partido": "Boca Juniors - Estudiantes",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
