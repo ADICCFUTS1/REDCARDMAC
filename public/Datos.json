@@ -45,13 +45,13 @@
     }
   },
   {
-    "dt": "1658696400",
-    "Partido": "Gimnasia La Plata - Lanús",
-    "Competicion": "Liga Profesional Argentina",
+    "dt": "1658691900",
+    "Partido": "América de Cali - Cortuluá",
+    "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -60,9 +60,9 @@
     }
   },
   {
-    "dt": "1658699400",
-    "Partido": "América de Cali - Cortuluá",
-    "Competicion": "Liga Dimayor Colombia",
+    "dt": "1658696400",
+    "Partido": "Gimnasia La Plata - Lanús",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -90,7 +90,7 @@
     }
   },
   {
-    "dt": "1658785200",
+    "dt": "1658699400",
     "Partido": "Medellín - Once Caldas",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
