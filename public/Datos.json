@@ -1,8 +1,8 @@
 [
   {
     "dt": "1658944800",
-    "Partido": "Salzburg - Liverpool",
-    "Competicion": "Amistoso",
+    "Partido": "Sin partidos",
+    "Competicion": "Error",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
