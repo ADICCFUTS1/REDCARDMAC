@@ -17,12 +17,12 @@
   {
     "dt": "1659196800",
     "Partido": "Liverpool - Manchester City",
-    "Competicion": "Error",
+    "Competicion": "Community Shield",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -34,9 +34,9 @@
     "Partido": "Tottenham Hotspur vs Roma",
     "Competicion": "Amistoso",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -62,7 +62,7 @@
   {
     "dt": "1659205800",
     "Partido": "RB Leipzig - Bayern München",
-    "Competicion": "Error",
+    "Competicion": "Supercopa Alemania",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
