@@ -45,28 +45,13 @@
     }
   },
   {
-    "dt": "1659286800",
-    "Partido": "Leicester City vs Sevilla",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
     "dt": "1659290400",
     "Partido": "PSG - Nantes",
     "Competicion": "Supercopa Francia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
