@@ -4,9 +4,9 @@
     "Partido": "Eintracht Frankfurt - Bayern München",
     "Competicion": "Bundesliga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,eintracht-frankfurt,bayern-munchen,565773.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
