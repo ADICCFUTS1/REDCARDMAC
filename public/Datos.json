@@ -19,9 +19,9 @@
     "Partido": "Crystal Palace - Arsenal",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,crystal-palace,arsenal-london,564434.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
