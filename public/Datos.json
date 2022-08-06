@@ -79,7 +79,7 @@
     "Partido": "Barracas Central - Racing Club",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
@@ -109,9 +109,9 @@
     "Partido": "Talleres Córdoba - Argentinos Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -124,9 +124,9 @@
     "Partido": "Unión Santa Fe - Vélez Sarsfield",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
       "valor3": "",
       "valor4": "",
