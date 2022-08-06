@@ -49,7 +49,7 @@
     "Partido": "Borussia Dortmund - Bayer Leverkusen",
     "Competicion": "Bundesliga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
@@ -64,7 +64,7 @@
     "Partido": "Everton - Chelsea",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
@@ -94,9 +94,9 @@
     "Partido": "Clermont - PSG",
     "Competicion": "Ligue 1",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
       "valor3": "",
       "valor4": "",
