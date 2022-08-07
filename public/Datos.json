@@ -1,10 +1,10 @@
 [
   {
-    "dt": "1659785400",
-    "Partido": "Fulham - Liverpool",
+    "dt": "1659877200",
+    "Partido": "Manchester United - Brighton & Hove Albion",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -15,13 +15,13 @@
     }
   },
   {
-    "dt": "1659794400",
-    "Partido": "Tottenham Hotspur - Southampton",
+    "dt": "1659886200",
+    "Partido": "West Ham United - Manchester City",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,8 +30,8 @@
     }
   },
   {
-    "dt": "1659801600",
-    "Partido": "Arsenal - Atlético Tucumán",
+    "dt": "1659888000",
+    "Partido": "Aldosivi - Huracán",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -45,54 +45,9 @@
     }
   },
   {
-    "dt": "1659803400",
-    "Partido": "Borussia Dortmund - Bayer Leverkusen",
-    "Competicion": "Bundesliga",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1659803400",
-    "Partido": "Everton - Chelsea",
-    "Competicion": "Premier League",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1659808800",
-    "Partido": "Barracas Central - Racing Club",
+    "dt": "1659895200",
+    "Partido": "San Lorenzo - Estudiantes",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1659812400",
-    "Partido": "Clermont - PSG",
-    "Competicion": "Ligue 1",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -105,39 +60,9 @@
     }
   },
   {
-    "dt": "1659819600",
-    "Partido": "Talleres Córdoba - Argentinos Juniors",
+    "dt": "1659904200",
+    "Partido": "Independiente - River Plate",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1659819600",
-    "Partido": "Unión Santa Fe - Vélez Sarsfield",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=8",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1659827400",
-    "Partido": "Alianza Petrolera - Atlético Nacional",
-    "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -150,14 +75,14 @@
     }
   },
   {
-    "dt": "1659830400",
-    "Partido": "Boca Juniors - Platense",
+    "dt": "1659913200",
+    "Partido": "Newell's Old Boys - Colón",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=11",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -165,13 +90,13 @@
     }
   },
   {
-    "dt": "1659834900",
-    "Partido": "Millonarios - Deportivo Cali",
+    "dt": "1659913800",
+    "Partido": "Junior - Once Caldas",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
