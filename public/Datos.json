@@ -139,9 +139,9 @@
     "Partido": "Alianza Petrolera - Atlético Nacional",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=9",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -169,9 +169,9 @@
     "Partido": "Millonarios - Deportivo Cali",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "",
       "valor3": "",
       "valor4": "",
