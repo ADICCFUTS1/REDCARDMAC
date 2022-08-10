@@ -1,9 +1,9 @@
 [
   {
-    "dt": "1660083300",
-    "Partido": "Atlético Goianiense - Nacional",
-    "Competicion": "Conmebol Sudamericana",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "dt": "1660158000",
+    "Partido": "Real Madrid - Eintracht Frankfurt",
+    "Competicion": "Supercopa UEFA",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-madrid,eintracht-frankfurt,592214.php",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -15,13 +15,13 @@
     }
   },
   {
-    "dt": "1660091400",
-    "Partido": "América de Cali - Rionegro Águilas",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "dt": "1660169700",
+    "Partido": "Ceará - São Paulo",
+    "Competicion": "Conmebol Sudamericana",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,ceara,sao-paulo,586727.php",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,13 +30,28 @@
     }
   },
   {
-    "dt": "1660091400",
-    "Partido": "Flamengo - Corinthians",
+    "dt": "1660177800",
+    "Partido": "Palmeiras - Atlético Mineiro",
     "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,palmeiras,atletico-mineiro,586734.php",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1660177800",
+    "Partido": "Talleres Córdoba - Vélez Sarsfield",
+    "Competicion": "Conmebol Libertadores",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,talleres-de-cordoba,velez-sarsfield,586735.php",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
