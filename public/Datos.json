@@ -4,11 +4,11 @@
     "Partido": "Real Madrid - Eintracht Frankfurt",
     "Competicion": "Supercopa UEFA",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-madrid,eintracht-frankfurt,592214.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
@@ -19,9 +19,9 @@
     "Partido": "Ceará - São Paulo",
     "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,ceara,sao-paulo,586727.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
