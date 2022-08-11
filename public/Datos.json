@@ -1,9 +1,9 @@
 [
   {
-    "dt": "1660158000",
-    "Partido": "Real Madrid - Eintracht Frankfurt",
-    "Competicion": "Supercopa UEFA",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-madrid,eintracht-frankfurt,592214.php",
+    "dt": "1660255200",
+    "Partido": "Godoy Cruz - Aldosivi",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -15,10 +15,10 @@
     }
   },
   {
-    "dt": "1660169700",
-    "Partido": "Ceará - São Paulo",
+    "dt": "1660256100",
+    "Partido": "Internacional - Melgar",
     "Competicion": "Conmebol Sudamericana",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,ceara,sao-paulo,586727.php",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -30,13 +30,13 @@
     }
   },
   {
-    "dt": "1660177800",
-    "Partido": "Palmeiras - Atlético Mineiro",
+    "dt": "1660264200",
+    "Partido": "Estudiantes - Athletico-PR",
     "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,palmeiras,atletico-mineiro,586734.php",
-    "Switch": 1,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -45,13 +45,28 @@
     }
   },
   {
-    "dt": "1660177800",
-    "Partido": "Talleres Córdoba - Vélez Sarsfield",
-    "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,talleres-de-cordoba,velez-sarsfield,586735.php",
-    "Switch": 1,
+    "dt": "1660264200",
+    "Partido": "Atlético Tucumán - Central Córdoba SdE",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1660264200",
+    "Partido": "Colón - Arsenal",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
