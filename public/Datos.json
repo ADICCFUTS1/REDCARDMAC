@@ -94,7 +94,7 @@
     "Partido": "Defensa y Justicia - Tigre",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
@@ -109,7 +109,7 @@
     "Partido": "Rosario Central - Barracas Central",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=7",
       "valor2": "",
@@ -124,7 +124,7 @@
     "Partido": "Lecce - Internazionale",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,lecce,internazionale-milano,579607.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
@@ -154,7 +154,7 @@
     "Partido": "PSG - Montpellier",
     "Competicion": "Ligue 1",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=11",
       "valor2": "",
@@ -169,9 +169,9 @@
     "Partido": "Lanús - Independiente",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "",
       "valor3": "",
       "valor4": "",
