@@ -34,7 +34,7 @@
     "Partido": "Celta de Vigo - Espanyol",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,celta-de-vigo,espanyol-barcelona,577822.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
@@ -79,9 +79,9 @@
     "Partido": "Real Valladolid - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
       "valor3": "",
       "valor4": "",
