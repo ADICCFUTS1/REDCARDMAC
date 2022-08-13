@@ -4,7 +4,7 @@
     "Partido": "Manchester City - AFC Bournemouth",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,manchester-city,bournemouth,564450.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -19,7 +19,7 @@
     "Partido": "Arsenal - Leicester City",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,arsenal-london,leicester-city,564444.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
@@ -49,9 +49,9 @@
     "Partido": "Milan - Udinese",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -64,9 +64,9 @@
     "Partido": "Brentford - Manchester United",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
