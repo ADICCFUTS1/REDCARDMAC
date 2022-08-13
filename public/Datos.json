@@ -139,7 +139,7 @@
     "Partido": "Barcelona - Rayo Vallecano",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,fc-barcelona,rayo-vallecano,577824.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "https://react-cms-omega.vercel.app/?txt=10",
@@ -184,9 +184,9 @@
     "Partido": "Santa Fe - Deportes Tolima",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=13",
       "valor2": "",
       "valor3": "",
       "valor4": "",
