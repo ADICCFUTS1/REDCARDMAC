@@ -154,9 +154,9 @@
     "Partido": "PSG - Montpellier",
     "Competicion": "Ligue 1",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=11",
       "valor2": "",
       "valor3": "",
       "valor4": "",
