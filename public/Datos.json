@@ -34,7 +34,7 @@
     "Partido": "Huracán - Sarmiento",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,huracan,sarmiento,563827.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
@@ -49,9 +49,9 @@
     "Partido": "Platense - Banfield",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,platense,banfield,563830.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -64,9 +64,9 @@
     "Partido": "Patronato - San Lorenzo",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,patronato-parana,san-lorenzo,563829.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
