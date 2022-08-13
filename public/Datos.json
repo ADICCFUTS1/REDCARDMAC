@@ -79,7 +79,7 @@
     "Partido": "Real Valladolid - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
@@ -123,7 +123,7 @@
     "dt": "1660416300",
     "Partido": "Lecce - Internazionale",
     "Competicion": "Serie A",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,lecce,internazionale-milano,579607.php",
     "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
@@ -138,11 +138,11 @@
     "dt": "1660417200",
     "Partido": "Barcelona - Rayo Vallecano",
     "Competicion": "LaLiga",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,fc-barcelona,rayo-vallecano,577824.php",
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=9",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=10",
       "valor3": "",
       "valor4": "",
       "valor5": "",
