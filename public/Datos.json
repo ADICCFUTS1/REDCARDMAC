@@ -94,7 +94,7 @@
     "Partido": "Argentinos Juniors - Unión Santa Fe",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
@@ -109,7 +109,7 @@
     "Partido": "Estudiantes - Talleres Córdoba",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "",
@@ -124,9 +124,9 @@
     "Partido": "Rionegro Águilas - Millonarios",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=11",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -139,10 +139,10 @@
     "Partido": "Racing Club - Boca Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=13",
       "valor3": "",
       "valor4": "",
       "valor5": "",
