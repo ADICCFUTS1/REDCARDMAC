@@ -79,7 +79,7 @@
     "Partido": "Almería - Real Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,almeria,real-madrid,577827.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "https://react-cms-omega.vercel.app/?txt=7",
