@@ -4,7 +4,7 @@
     "Partido": "Athletic Club - Mallorca",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -34,11 +34,11 @@
     "Partido": "Getafe - Atlético Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=4",
       "valor4": "",
       "valor5": "",
       "valor6": ""
