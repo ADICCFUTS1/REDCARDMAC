@@ -4,7 +4,7 @@
     "Partido": "Athletic Club - Mallorca",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "",
       "valor2": "",
@@ -19,7 +19,7 @@
     "Partido": "Hellas Verona - Napoli",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "",
       "valor2": "",
