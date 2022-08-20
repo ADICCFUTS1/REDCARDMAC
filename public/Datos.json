@@ -49,7 +49,7 @@
     "Partido": "AFC Bournemouth - Arsenal",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
