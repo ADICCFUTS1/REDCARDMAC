@@ -184,7 +184,7 @@
     "Partido": "River Plate - Central Córdoba SdE",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=16",
       "valor2": "https://react-cms-omega.vercel.app/?txt=17",
@@ -214,9 +214,9 @@
     "Partido": "Defensa y Justicia - Boca Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=19",
       "valor2": "",
       "valor3": "",
       "valor4": "",
