@@ -154,7 +154,7 @@
     "Partido": "Real Sociedad - Barcelona",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "https://react-cms-omega.vercel.app/?txt=13",
