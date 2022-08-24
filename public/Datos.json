@@ -1,42 +1,12 @@
 [
   {
     "dt": "1661292000",
-    "Partido": "Patronato - Argentinos Juniors",
-    "Competicion": "Liga Profesional Argentina",
+    "Partido": "Sin Partidos",
+    "Competicion": "Error",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1661301000",
-    "Partido": "Atlético Tucumán - Barracas Central",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1661301000",
-    "Partido": "Gimnasia La Plata - Aldosivi",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
       "valor3": "",
       "valor4": "",
