@@ -1,12 +1,12 @@
 [
   {
-    "dt": "1661292000",
-    "Partido": "Sin Partidos",
-    "Competicion": "Error",
+    "dt": "1661475600",
+    "Partido": "Deportivo Cali - Jaguares de Córdoba",
+    "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
