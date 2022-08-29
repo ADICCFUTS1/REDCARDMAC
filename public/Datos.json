@@ -169,7 +169,7 @@
     "Partido": "Junior - Deportes Tolima",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=15",
       "valor2": "",
@@ -214,9 +214,9 @@
     "Partido": "Rionegro Águilas - Medellín",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=18",
       "valor2": "",
       "valor3": "",
       "valor4": "",
