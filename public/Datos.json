@@ -28,50 +28,5 @@
       "valor5": "",
       "valor6": ""
     }
-  },
-  {
-    "dt": "1662156000",
-    "Partido": "Patronato - Unión Santa Fe",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662165000",
-    "Partido": "Lanús - Tigre",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662165000",
-    "Partido": "Rosario Central - Talleres Córdoba",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
   }
 ]
