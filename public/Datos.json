@@ -109,7 +109,7 @@
     "Partido": "Milan - Internazionale",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
@@ -124,7 +124,7 @@
     "Partido": "Lanús vs Tigre",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "",
@@ -139,7 +139,7 @@
     "Partido": "Rosario Central vs Talleres Córdoba",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=11",
       "valor2": "",
@@ -154,7 +154,7 @@
     "Partido": "Real Sociedad - Atlético Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "https://react-cms-omega.vercel.app/?txt=13",
@@ -169,7 +169,7 @@
     "Partido": "Aston Villa - Manchester City",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=14",
       "valor2": "",
@@ -184,9 +184,9 @@
     "Partido": "Vélez Sarsfield - Newell's Old Boys",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=15",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -199,9 +199,9 @@
     "Partido": "Lazio - Napoli",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=16",
       "valor2": "",
       "valor3": "",
       "valor4": "",
