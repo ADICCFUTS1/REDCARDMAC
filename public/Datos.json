@@ -94,7 +94,7 @@
     "Partido": "Valencia - Getafe",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=7",
       "valor2": "https://react-cms-omega.vercel.app/?txt=8",
@@ -110,39 +110,9 @@
     "Partido": "Colón - Boca Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=9",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662325500",
-    "Partido": "Unión Magdalena - Junior",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662333000",
-    "Partido": "Medellín - Atlético Nacional",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -155,9 +125,9 @@
     "Partido": "River Plate - Barracas Central",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "",
       "valor3": "",
       "valor4": "",
