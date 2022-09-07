@@ -4,7 +4,7 @@
     "Partido": "Atlético Madrid - Porto",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido1",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
@@ -19,7 +19,7 @@
     "Partido": "Barcelona - Viktoria Plzeň",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido2",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "https://react-cms-omega.vercel.app/?txt=4",
@@ -34,7 +34,7 @@
     "Partido": "Internazionale - Bayern München",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido3",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "https://react-cms-omega.vercel.app/?txt=7",
@@ -49,7 +49,7 @@
     "Partido": "Napoli - Liverpool",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido4",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
@@ -64,7 +64,7 @@
     "Partido": "Tottenham Hotspur - Olympique Marseille",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
