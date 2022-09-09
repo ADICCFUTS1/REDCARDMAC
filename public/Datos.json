@@ -1,87 +1,12 @@
 [
   {
-    "dt": "1662655500",
-    "Partido": "Villarreal - Lech Poznań",
-    "Competicion": "UEFA Conference League",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662655500",
-    "Partido": "HJK - Real Betis",
-    "Competicion": "UEFA Europa League",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662655500",
-    "Partido": "Zürich - Arsenal",
-    "Competicion": "UEFA Europa League",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662663600",
-    "Partido": "Manchester United - Real Sociedad",
-    "Competicion": "UEFA Europa League",
-    "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido1",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662670800",
-    "Partido": "Independiente - Aldosivi",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido2",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1662679800",
-    "Partido": "Argentinos Juniors - Rosario Central",
+    "dt": "1662748200",
+    "Partido": "Barracas Central - Lanús",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -90,13 +15,28 @@
     }
   },
   {
-    "dt": "1662679800",
-    "Partido": "Unión Santa Fe - Sarmiento",
+    "dt": "1662750000",
+    "Partido": "Girona - Real Valladolid",
+    "Competicion": "LaLiga",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1662757200",
+    "Partido": "Patronato - Platense",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -105,13 +45,13 @@
     }
   },
   {
-    "dt": "1662683400",
-    "Partido": "São Paulo - Atlético Goianiense",
-    "Competicion": "Conmebol Sudamericana",
+    "dt": "1662766200",
+    "Partido": "Estudiantes - Racing Club",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=8",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
