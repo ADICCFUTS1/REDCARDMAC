@@ -79,7 +79,7 @@
     "Partido": "Juventus - Salernitana",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
@@ -94,7 +94,7 @@
     "Partido": "Real Betis - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "https://react-cms-omega.vercel.app/?txt=10",
@@ -109,7 +109,7 @@
     "Partido": "Boca Juniors - River Plate",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido2",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=11",
       "valor2": "https://react-cms-omega.vercel.app/?txt=12",
