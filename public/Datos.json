@@ -4,7 +4,7 @@
     "Partido": "Real Madrid - Mallorca",
     "Competicion": "LaLiga",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido1",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
