@@ -4,7 +4,7 @@
     "Partido": "Sporting CP - Tottenham Hotspur",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -19,7 +19,7 @@
     "Partido": "Viktoria Plzeň - Internazionale",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
@@ -34,11 +34,11 @@
     "Partido": "Bayer Leverkusen - Atlético Madrid",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=4",
       "valor4": "",
       "valor5": "",
       "valor6": ""
@@ -49,11 +49,11 @@
     "Partido": "Bayern München - Barcelona",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=7",
       "valor4": "",
       "valor5": "",
       "valor6": ""
@@ -64,25 +64,10 @@
     "Partido": "Liverpool - Ajax",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1663097400",
-    "Partido": "Vélez Sarsfield - Central Córdoba SdE",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=8",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=9",
       "valor3": "",
       "valor4": "",
       "valor5": "",
