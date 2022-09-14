@@ -139,7 +139,7 @@
     "Partido": "River Plate - Banfield",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=17",
       "valor2": "",
@@ -154,9 +154,9 @@
     "Partido": "Lanús - Boca Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=18",
       "valor2": "",
       "valor3": "",
       "valor4": "",
