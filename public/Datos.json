@@ -4,7 +4,7 @@
     "Partido": "Milan - Dinamo Zagreb",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
@@ -19,10 +19,10 @@
     "Partido": "Chelsea - Salzburg",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -34,9 +34,9 @@
     "Partido": "Juventus - Benfica",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -49,11 +49,11 @@
     "Partido": "København - Sevilla",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=7",
       "valor4": "",
       "valor5": "",
       "valor6": ""
@@ -64,10 +64,10 @@
     "Partido": "Maccabi Haifa - PSG",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=8",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=9",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -79,10 +79,10 @@
     "Partido": "Manchester City - Borussia Dortmund",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=11",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -93,6 +93,51 @@
     "dt": "1663182000",
     "Partido": "Rangers - Napoli",
     "Competicion": "UEFA Champions League",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1663182000",
+    "Partido": "Real Madrid - RB Leipzig",
+    "Competicion": "UEFA Champions League",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/?txt=13",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=14",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=15",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1663183800",
+    "Partido": "Colón - San Lorenzo",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/?txt=16",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1663192800",
+    "Partido": "River Plate - Banfield",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -105,9 +150,9 @@
     }
   },
   {
-    "dt": "1663182000",
-    "Partido": "Real Madrid - RB Leipzig",
-    "Competicion": "UEFA Champions League",
+    "dt": "1663201800",
+    "Partido": "Lanús - Boca Juniors",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
