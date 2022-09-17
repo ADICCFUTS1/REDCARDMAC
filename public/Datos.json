@@ -79,7 +79,7 @@
     "Partido": "Valencia - Celta de Vigo",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=7",
       "valor2": "",
@@ -94,7 +94,7 @@
     "Partido": "Tottenham Hotspur - Leicester City",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
@@ -109,9 +109,9 @@
     "Partido": "Barracas Central - Godoy Cruz",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -124,10 +124,10 @@
     "Partido": "Athletic Club - Rayo Vallecano",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=11",
       "valor3": "",
       "valor4": "",
       "valor5": "",
