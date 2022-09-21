@@ -1,27 +1,12 @@
 [
   {
-    "dt": "1663707600",
-    "Partido": "Patronato - Rosario Central",
-    "Competicion": "Liga Profesional Argentina",
+    "dt": "1663785900",
+    "Partido": "Escocia - Ucrania",
+    "Competicion": "UEFA Nations League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1663716600",
-    "Partido": "Central Córdoba SdE - Gimnasia La Plata",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
