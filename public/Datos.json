@@ -49,7 +49,7 @@
     "Partido": "Godoy Cruz - Boca Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
@@ -64,7 +64,7 @@
     "Partido": "Huracán - Banfield",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
@@ -81,8 +81,8 @@
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=6",
       "valor3": "",
       "valor4": "",
       "valor5": "",
