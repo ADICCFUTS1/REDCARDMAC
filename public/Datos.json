@@ -1,12 +1,12 @@
 [
   {
-    "dt": "1664044200",
-    "Partido": "Lanús - San Lorenzo",
+    "dt": "1664130600",
+    "Partido": "Gimnasia La Plata - Tigre",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -15,14 +15,29 @@
     }
   },
   {
-    "dt": "1664045100",
-    "Partido": "España - Suiza",
+    "dt": "1664130600",
+    "Partido": "Rosario Central - Platense",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1664131500",
+    "Partido": "Austria - Croacia",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -30,13 +45,13 @@
     }
   },
   {
-    "dt": "1664045100",
-    "Partido": "República Checa - Portugal",
+    "dt": "1664131500",
+    "Partido": "Dinamarca - Francia",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -45,13 +60,28 @@
     }
   },
   {
-    "dt": "1664053200",
-    "Partido": "River Plate - Talleres Córdoba",
+    "dt": "1664131500",
+    "Partido": "Países Bajos - Bélgica",
+    "Competicion": "UEFA Nations League",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1664139600",
+    "Partido": "Racing Club - Unión Santa Fe",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -60,13 +90,13 @@
     }
   },
   {
-    "dt": "1664062200",
-    "Partido": "Independiente - Newell's Old Boys",
+    "dt": "1664148600",
+    "Partido": "Atlético Tucumán - Estudiantes",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -75,13 +105,13 @@
     }
   },
   {
-    "dt": "1664067600",
-    "Partido": "Mexico - Perú",
-    "Competicion": "Amistoso",
+    "dt": "1664148600",
+    "Partido": "Vélez Sarsfield - Barracas Central",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
