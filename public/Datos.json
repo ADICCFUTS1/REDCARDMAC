@@ -1,27 +1,12 @@
 [
   {
-    "dt": "1664294400000",
-    "Partido": "Canadá - Uruguay",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
     "dt": "1664303400",
     "Partido": "Brasil - Túnez",
     "Competicion": "Amistoso",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -34,9 +19,9 @@
     "Partido": "Suiza - República Checa",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -49,11 +34,11 @@
     "Partido": "Portugal - España",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=4",
       "valor4": "",
       "valor5": "",
       "valor6": ""
