@@ -109,7 +109,7 @@
     "Partido": "Central Córdoba SdE - Sarmiento",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=7",
       "valor2": "",
@@ -124,7 +124,7 @@
     "Partido": "Platense - Defensa y Justicia",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
@@ -139,7 +139,7 @@
     "Partido": "Internazionale - Roma",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
@@ -154,7 +154,7 @@
     "Partido": "Sevilla - Atlético Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "https://react-cms-omega.vercel.app/?txt=11",
@@ -169,9 +169,9 @@
     "Partido": "San Lorenzo - Huracán",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -184,9 +184,9 @@
     "Partido": "Empoli - Milan",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=13",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -201,9 +201,9 @@
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=14",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=15",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=16",
       "valor4": "",
       "valor5": "",
       "valor6": ""
@@ -216,7 +216,7 @@
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=17",
       "valor2": "",
       "valor3": "",
       "valor4": "",
