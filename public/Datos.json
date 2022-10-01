@@ -169,7 +169,7 @@
     "Partido": "San Lorenzo - Huracán",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "",
@@ -184,7 +184,7 @@
     "Partido": "Empoli - Milan",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=13",
       "valor2": "",
@@ -199,7 +199,7 @@
     "Partido": "Mallorca - Barcelona",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=14",
       "valor2": "https://react-cms-omega.vercel.app/?txt=15",
@@ -214,7 +214,7 @@
     "Partido": "PSG - Nice",
     "Competicion": "Ligue 1",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=17",
       "valor2": "",
@@ -244,9 +244,9 @@
     "Partido": "Banfield - Godoy Cruz",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=19",
       "valor2": "",
       "valor3": "",
       "valor4": "",
