@@ -1,12 +1,12 @@
 [
   {
-    "dt": "1664712000",
-    "Partido": "Espanyol - Valencia",
+    "dt": "1664823600",
+    "Partido": "Rayo Vallecano - Elche",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -15,133 +15,13 @@
     }
   },
   {
-    "dt": "1664715600",
-    "Partido": "Manchester City - Manchester United",
-    "Competicion": "Premier League",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664720100",
-    "Partido": "Celta de Vigo - Real Betis",
-    "Competicion": "LaLiga",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664728200",
-    "Partido": "Girona - Real Sociedad",
-    "Competicion": "LaLiga",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664735400",
-    "Partido": "Patronato - Atlético Tucumán",
+    "dt": "1664838000",
+    "Partido": "Rosario Central - Unión Santa Fe",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664736300",
-    "Partido": "Juventus - Bologna",
-    "Competicion": "Serie A",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664737200",
-    "Partido": "Real Madrid - Osasuna",
-    "Competicion": "LaLiga",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=8",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=9",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664744400",
-    "Partido": "Boca Juniors - Vélez Sarsfield",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664746200",
-    "Partido": "Talleres Córdoba - Lanús",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=11",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664753400",
-    "Partido": "Argentinos Juniors - River Plate",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
