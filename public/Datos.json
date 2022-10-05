@@ -1,12 +1,12 @@
 [
   {
-    "dt": "1664901900",
-    "Partido": "Bayern München - Viktoria Plzeň",
+    "dt": "1664996400",
+    "Partido": "Benfica - PSG",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -15,13 +15,13 @@
     }
   },
   {
-    "dt": "1664910000",
-    "Partido": "Ajax - Napoli",
+    "dt": "1664996400",
+    "Partido": "Chelsea - Milan",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,28 +30,13 @@
     }
   },
   {
-    "dt": "1664910000",
-    "Partido": "Club Brugge - Atlético Madrid",
+    "dt": "1664996400",
+    "Partido": "Juventus - Maccabi Haifa",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664910000",
-    "Partido": "Eintracht Frankfurt - Tottenham Hotspur",
-    "Competicion": "UEFA Champions League",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -60,28 +45,13 @@
     }
   },
   {
-    "dt": "1664910000",
-    "Partido": "Internazionale - Barcelona",
+    "dt": "1664996400",
+    "Partido": "Manchester City - København",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=8",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1664910000",
-    "Partido": "Liverpool - Rangers",
-    "Competicion": "UEFA Champions League",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=9",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -90,13 +60,43 @@
     }
   },
   {
-    "dt": "1664911800",
-    "Partido": "Godoy Cruz - San Lorenzo",
+    "dt": "1664996400",
+    "Partido": "Real Madrid - Shakhtar Donetsk",
+    "Competicion": "UEFA Champions League",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1664996400",
+    "Partido": "Sevilla - Borussia Dortmund",
+    "Competicion": "UEFA Champions League",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1664998200",
+    "Partido": "Colón - Patronato",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -105,13 +105,13 @@
     }
   },
   {
-    "dt": "1664911800",
-    "Partido": "Newell's Old Boys - Arsenal",
+    "dt": "1665007200",
+    "Partido": "Atlético Tucumán - Platense",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=11",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -120,13 +120,13 @@
     }
   },
   {
-    "dt": "1664920800",
-    "Partido": "Sarmiento - Tigre",
+    "dt": "1665007200",
+    "Partido": "Defensa y Justicia - Racing Club",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -135,13 +135,28 @@
     }
   },
   {
-    "dt": "1664929800",
-    "Partido": "Vélez Sarsfield - Banfield",
+    "dt": "1665016200",
+    "Partido": "Independiente - Central Córdoba SdE",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=13",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1665016200",
+    "Partido": "River Plate - Estudiantes",
+    "Competicion": "Liga Profesional Argentina",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
