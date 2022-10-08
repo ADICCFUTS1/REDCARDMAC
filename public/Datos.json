@@ -79,7 +79,7 @@
     "Partido": "Milan - Juventus",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
@@ -94,7 +94,7 @@
     "Partido": "Sevilla - Athletic Club",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=7",
       "valor2": "",
@@ -109,7 +109,7 @@
     "Partido": "Brighton & Hove Albion - Tottenham Hotspur",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=8",
       "valor2": "",
@@ -124,7 +124,7 @@
     "Partido": "Borussia Dortmund - Bayern München",
     "Competicion": "Bundesliga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
@@ -134,21 +134,7 @@
       "valor6": ""
     }
   },
-  {
-    "dt": "1665255600",
-    "Partido": "San Lorenzo - Vélez Sarsfield",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
+
   {
     "dt": "1665255600",
     "Partido": "Getafe - Real Madrid",
@@ -168,6 +154,21 @@
     "dt": "1665255600",
     "Partido": "Reims - PSG",
     "Competicion": "Ligue 1",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1665255600",
+    "Partido": "San Lorenzo - Vélez Sarsfield",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
