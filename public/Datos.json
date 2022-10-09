@@ -79,7 +79,7 @@
     "Partido": "Real Sociedad - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
@@ -154,11 +154,11 @@
     "Partido": "Barcelona - Celta de Vigo",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=11",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=12",
       "valor4": "",
       "valor5": "",
       "valor6": ""
