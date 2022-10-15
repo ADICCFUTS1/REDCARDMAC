@@ -13,6 +13,7 @@ import { GlobalStyles } from "./styles/Globalstyle";
 import { lightTheme, darkTheme } from "./styles/Themes";
 import Toggle from "./styles/Toggler";
 import "./styles/App.css";
+import Card from "./cards/Card1";
 
 import Titulo from "./titulo";
 import Paper from "@material-ui/core/Paper";
@@ -84,6 +85,10 @@ export default function MainJS() {
               </Button>
               <Divider />
             </div>{" "}
+            {/*<Typography gutterBottom variant="h5" component="h2">
+              Evento destacado:
+            </Typography>
+  <Card />*/}
             <Typography gutterBottom variant="h5" component="h2">
               Todos los eventos
             </Typography>

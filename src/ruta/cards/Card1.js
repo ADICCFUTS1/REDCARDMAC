@@ -5,6 +5,7 @@ import CardActionArea from "@material-ui/core/CardActionArea";
 import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
+import ButtonDefault from "../Componentes/ButtonsDefault";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 
@@ -19,34 +20,35 @@ const useStyles = makeStyles({
 
 export default function Card1() {
   const classes = useStyles();
+  var dta = [];
+  var date = new Date(1665929700 * 1000);
+  var hours = "0" + date.getHours();
+  var minutes = "0" + date.getMinutes();
+  var formattedTime =
+    hours.substr(-2) + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
+  dta.push(formattedTime);
 
   return (
     <div>
-      <Typography gutterBottom variant="h5" component="h2">
-        Viernes 01/04/2022 {dta[0]}
+      <Typography gutterBottom variant="subtitle1" component="h6">
+        Domingo 15/10/2022 {dta[0]}
       </Typography>
 
       <Card className={classes.root}>
         <CardActionArea>
           <CardMedia
             className={classes.media}
-            image="https://i.imgur.com/w57sih5.jpg"
+            image="https://e00-ar-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/10/15/16657903599615.jpg"
             title="Contemplative Reptile"
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="h2">
-              Sorteo Mundial 2022
+              Real Madrid - Barcelona
             </Typography>
           </CardContent>
         </CardActionArea>
         <CardActions>
-          <Button
-            size="small"
-            color="primary"
-            href="https://redcard-estadisticas.netlify.app/mundial-grupos"
-          >
-            Grupos
-          </Button>
+          <ButtonDefault />
         </CardActions>
       </Card>
     </div>
