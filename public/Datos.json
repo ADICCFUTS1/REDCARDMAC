@@ -124,7 +124,7 @@
     "Partido": "Aldosivi - Talleres Córdoba",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=13",
       "valor2": "",
@@ -139,7 +139,7 @@
     "Partido": "Napoli - Bologna",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=14",
       "valor2": "",
@@ -184,9 +184,9 @@
     "Partido": "Newell's Old Boys - Boca Juniors",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=17",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -199,9 +199,9 @@
     "Partido": "PSG - Olympique Marseille",
     "Competicion": "Ligue 1",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=18",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -214,9 +214,9 @@
     "Partido": "Hellas Verona - Milan",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=19",
       "valor2": "",
       "valor3": "",
       "valor4": "",
