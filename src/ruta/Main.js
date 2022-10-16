@@ -86,10 +86,6 @@ export default function MainJS() {
               <Divider />
             </div>{" "}
             <Typography gutterBottom variant="h5" component="h2">
-              Evento destacado:
-            </Typography>
-            <Card />
-            <Typography gutterBottom variant="h5" component="h2">
               Todos los eventos
             </Typography>
             <AllData />
