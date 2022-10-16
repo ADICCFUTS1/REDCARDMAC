@@ -38,7 +38,7 @@ export default function Card1() {
         <CardActionArea>
           <CardMedia
             className={classes.media}
-            image="https://e00-ar-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/10/15/16657903599615.jpg"
+            image="/16657903599615.webp"
             title="Contemplative Reptile"
           />
           <CardContent>
