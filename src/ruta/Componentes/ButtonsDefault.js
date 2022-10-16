@@ -30,27 +30,24 @@ const useStyles = makeStyles((theme) => ({
 
 const ButtonsDefault = () => {
   const classes = useStyles();
-  const Enlaces = [
-    "https://react-cms-omega.vercel.app/?txt=0",
-    "https://react-cms-omega.vercel.app/?txt=1",
-    "https://react-cms-omega.vercel.app/?txt=2",
-    "https://react-cms-omega.vercel.app/?txt=3",
-    "https://react-cms-omega.vercel.app/?txt=4",
-    "https://react-cms-omega.vercel.app/?txt=5"
-  ];
+
   return (
     <div>
-      <div className={classes.root}>
-        <Btn Valor={Enlaces[0]} />
-        <Btn Valor={Enlaces[1]} />
-        <Btn Valor={Enlaces[2]} />
-        <Btn Valor={Enlaces[3]} />
-        <Btn Valor={Enlaces[4]} />
-        <Btn Valor={Enlaces[5]} />
-        <Button size="small" color="primary" href={Enlaces[0]}>
-          Estadisticas
-        </Button>
-      </div>
+      {x == 0 ? (
+        "No disponible"
+      ) : (
+        <div className={classes.root}>
+          <Btn Valor={Enlaces[0]} />
+          <Btn Valor={Enlaces[1]} />
+          <Btn Valor={Enlaces[2]} />
+          <Btn Valor={Enlaces[3]} />
+          <Btn Valor={Enlaces[4]} />
+          <Btn Valor={Enlaces[5]} />
+          <Button size="small" color="primary" href={Enlaces[0]}>
+            Estadisticas
+          </Button>
+        </div>
+      )}
     </div>
   );
 };

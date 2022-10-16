@@ -85,10 +85,10 @@ export default function MainJS() {
               </Button>
               <Divider />
             </div>{" "}
-            {/*<Typography gutterBottom variant="h5" component="h2">
+            <Typography gutterBottom variant="h5" component="h2">
               Evento destacado:
             </Typography>
-  <Card />*/}
+            <Card />
             <Typography gutterBottom variant="h5" component="h2">
               Todos los eventos
             </Typography>
