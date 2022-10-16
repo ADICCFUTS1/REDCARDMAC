@@ -43,7 +43,11 @@ const ButtonsDefault = () => {
           <Btn Valor={Enlaces[3]} />
           <Btn Valor={Enlaces[4]} />
           <Btn Valor={Enlaces[5]} />
-          <Button size="small" color="primary" href={Enlaces[0]}>
+          <Button
+            size="small"
+            color="primary"
+            href="https://csb-vvcdv9-adiccfut.vercel.app/partido1"
+          >
             Estadisticas
           </Button>
         </div>
