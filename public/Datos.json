@@ -124,9 +124,9 @@
     "Partido": "Manchester United - Tottenham Hotspur",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "",
       "valor3": "",
       "valor4": "",
