@@ -2,7 +2,7 @@
   {
     "dt": "1666195200",
     "Partido": "Hannover 96 - Borussia Dortmund",
-    "Competicion": "Error",
+    "Competicion": "Copa Alemania",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -64,9 +64,9 @@
     "Partido": "Brentford - Chelsea",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -79,9 +79,9 @@
     "Partido": "Liverpool - West Ham United",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -92,11 +92,11 @@
   {
     "dt": "1666205100",
     "Partido": "Augsburg - Bayern München",
-    "Competicion": "Error",
+    "Competicion": "Copa Alemania",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
       "valor3": "",
       "valor4": "",
