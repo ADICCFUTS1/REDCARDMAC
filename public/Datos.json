@@ -34,7 +34,7 @@
     "Partido": "Real Betis - Atlético Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "https://react-cms-omega.vercel.app/?txt=3",
@@ -64,7 +64,7 @@
     "Partido": "Girona - Osasuna",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
@@ -79,7 +79,7 @@
     "Partido": "Villarreal - Almería",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
