@@ -34,7 +34,7 @@
     "Partido": "Ajax - Liverpool",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
@@ -49,7 +49,7 @@
     "Partido": "Atlético Madrid - Bayer Leverkusen",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "https://react-cms-omega.vercel.app/?txt=4",
@@ -64,7 +64,7 @@
     "Partido": "Barcelona - Bayern München",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "https://react-cms-omega.vercel.app/?txt=6",
@@ -79,7 +79,7 @@
     "Partido": "Napoli - Rangers",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=9",
       "valor2": "",
@@ -94,7 +94,7 @@
     "Partido": "Tottenham Hotspur - Sporting CP",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "",
