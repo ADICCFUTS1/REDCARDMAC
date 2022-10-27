@@ -4,7 +4,7 @@
     "Partido": "Villarreal - Hapoel Be'er Sheva",
     "Competicion": "UEFA Conference League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -19,7 +19,7 @@
     "Partido": "PSV - Arsenal",
     "Competicion": "UEFA Europa League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
@@ -34,7 +34,7 @@
     "Partido": "Ludogorets - Real Betis",
     "Competicion": "UEFA Europa League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
@@ -49,9 +49,9 @@
     "Partido": "Omonia Nicosia - Real Sociedad",
     "Competicion": "UEFA Europa League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -64,9 +64,9 @@
     "Partido": "Manchester United - Sheriff",
     "Competicion": "UEFA Europa League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
