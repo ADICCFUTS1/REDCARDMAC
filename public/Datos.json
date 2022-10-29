@@ -139,7 +139,7 @@
     "Partido": "Eintracht Frankfurt - Borussia Dortmund",
     "Competicion": "Bundesliga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=10",
       "valor2": "",
@@ -154,7 +154,7 @@
     "Partido": "Sevilla - Rayo Vallecano",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=11",
       "valor2": "",
@@ -169,9 +169,9 @@
     "Partido": "Liverpool - Leeds United",
     "Competicion": "Premier League",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=12",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -184,9 +184,9 @@
     "Partido": "Internazionale - Sampdoria",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=13",
       "valor2": "",
       "valor3": "",
       "valor4": "",
