@@ -33,7 +33,7 @@ const useStyles = makeStyles((theme) => ({
 export default (props) => {
   const classes = useStyles();
 
-  const url = "Datos2.json";
+  const url = "Datos.json";
   const [todos, setTodos] = useState();
   const fetchApi = async () => {
     const response = await fetch(url);
