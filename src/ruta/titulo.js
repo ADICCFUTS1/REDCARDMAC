@@ -11,7 +11,7 @@ const Titulo = () => {
   return (
     <div>
       <Typography variant="h6" component="h6">
-        SEGUINOS!
+        ¡SEGUINOS!
       </Typography>
       <Button
         color="primary"
