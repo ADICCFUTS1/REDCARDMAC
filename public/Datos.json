@@ -4,24 +4,9 @@
     "Partido": "Napoli - Empoli",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1667928600",
-    "Partido": "Spezia - Udinese",
-    "Competicion": "Serie A",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -34,9 +19,9 @@
     "Partido": "Wolfsburg - Borussia Dortmund",
     "Competicion": "Bundesliga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
