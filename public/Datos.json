@@ -34,7 +34,7 @@
     "Partido": "Elche - Girona",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
@@ -94,11 +94,11 @@
     "Partido": "Osasuna - Barcelona",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=7",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=8",
       "valor4": "",
       "valor5": "",
       "valor6": ""
