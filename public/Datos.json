@@ -34,9 +34,9 @@
     "Partido": "Espanyol - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -47,7 +47,7 @@
   {
     "dt": "1668023100",
     "Partido": "Nottingham Forest - Tottenham Hotspur",
-    "Competicion": "Error",
+    "Competicion": "EFL CUP",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -62,7 +62,7 @@
   {
     "dt": "1668023100",
     "Partido": "Arsenal - Brighton & Hove Albion",
-    "Competicion": "Error",
+    "Competicion": "EFL CUP",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -92,7 +92,7 @@
   {
     "dt": "1668024000",
     "Partido": "Liverpool - Derby County",
-    "Competicion": "Error",
+    "Competicion": "EFL CUP",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -107,7 +107,7 @@
   {
     "dt": "1668024000",
     "Partido": "Manchester City - Chelsea",
-    "Competicion": "Error",
+    "Competicion": "EFL CUP",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
