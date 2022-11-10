@@ -4,7 +4,7 @@
     "Partido": "Hellas Verona - Juventus",
     "Competicion": "Serie A",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -49,9 +49,9 @@
     "Partido": "Manchester United - Aston Villa",
     "Competicion": "Error",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -64,11 +64,11 @@
     "Partido": "Real Madrid - Cádiz",
     "Competicion": "LaLiga",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=6",
       "valor4": "",
       "valor5": "",
       "valor6": ""
