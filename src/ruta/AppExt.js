@@ -58,7 +58,7 @@ export default () => {
               ":" +
               minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
             dta.push(formattedTime);
-            console.log(todos);
+
             return (
               <div>
                 <Typography>{todo.Competicion}:</Typography>
