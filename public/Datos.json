@@ -1,27 +1,12 @@
 [
   {
-    "dt": "1668612600",
-    "Partido": "Emiratos Árabes Unidos - Argentina",
+    "dt": "1668700800",
+    "Partido": "Jordania vs España",
     "Competicion": "Amistoso",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1668618000",
-    "Partido": "Omán - Alemania",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,43 +15,13 @@
     }
   },
   {
-    "dt": "1668618000",
-    "Partido": "Polonia - Chile",
+    "dt": "1668710700",
+    "Partido": "Portugal vs Nigeria",
     "Competicion": "Amistoso",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1668627000",
-    "Partido": "Mexico - Suecia",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1668627900",
-    "Partido": "Albania - Italia",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
