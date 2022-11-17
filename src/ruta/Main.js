@@ -19,6 +19,7 @@ import Titulo from "./titulo";
 import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
+import Globe from "./Componentes/icons/Globe";
 
 /*const isDark = window.matchMedia("(prefers-color-scheme:dark)").matches;
 const lightTheme = {
@@ -82,6 +83,13 @@ export default function MainJS() {
                 onClick={refreshPage}
               >
                 <RefreshIcon />
+              </Button>
+              <Button
+                variant="outlined"
+                color="secondary"
+                href="https://redcard-estadisticas.netlify.app/mundial/grupos"
+              >
+                <Globe />
               </Button>
               <Divider />
             </div>{" "}
