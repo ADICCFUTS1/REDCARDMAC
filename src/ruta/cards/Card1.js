@@ -18,39 +18,28 @@ const useStyles = makeStyles({
   }
 });
 
-export default function Card1() {
+export default function Card1(props) {
   const classes = useStyles();
-  var dta = [];
-  var date = new Date(1665929700 * 1000);
-  var hours = "0" + date.getHours();
-  var minutes = "0" + date.getMinutes();
-  var formattedTime =
-    hours.substr(-2) + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
-  dta.push(formattedTime);
 
   return (
     <div>
-      <Typography gutterBottom variant="subtitle1" component="h6">
-        Domingo 16/10/2022 {dta[0]}
-      </Typography>
-
-      <Card className={classes.root}>
-        <CardActionArea>
-          <CardMedia
-            className={classes.media}
-            image="/16657903599615.webp"
-            title="Contemplative Reptile"
-          />
-          <CardContent>
-            <Typography gutterBottom variant="h5" component="h2">
-              Real Madrid - Barcelona
-            </Typography>
-          </CardContent>
-        </CardActionArea>
-        <CardActions>
-          <ButtonDefault />
-        </CardActions>
-      </Card>
+      <div>
+        <Card className={classes.root}>
+          <CardActionArea>
+            <CardMedia
+              className={classes.media}
+              image="/16657903599615.webp"
+              title="Contemplative Reptile"
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="h2">
+                {props[0].Partido}
+              </Typography>
+            </CardContent>
+          </CardActionArea>
+          <CardActions></CardActions>
+        </Card>
+      </div>
     </div>
   );
 }
