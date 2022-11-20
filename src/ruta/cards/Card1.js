@@ -20,7 +20,13 @@ const useStyles = makeStyles({
 
 export default function Card1(props) {
   const classes = useStyles();
-
+  const dta = [];
+  const date = new Date(1668960000 * 1000);
+  const hours = "0" + date.getHours();
+  const minutes = "0" + date.getMinutes();
+  const formattedTime =
+    hours.substr(-2) + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
+  dta.push(formattedTime);
   return (
     <div>
       <div>
@@ -28,16 +34,18 @@ export default function Card1(props) {
           <CardActionArea>
             <CardMedia
               className={classes.media}
-              image="/16657903599615.webp"
+              image="/img/qatar.jpg"
               title="Contemplative Reptile"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="h2">
-                {props[0].Partido}
+                {dta[0]} Qatar - Ecuador
               </Typography>
             </CardContent>
           </CardActionArea>
-          <CardActions></CardActions>
+          <CardActions>
+            <ButtonDefault />
+          </CardActions>
         </Card>
       </div>
     </div>

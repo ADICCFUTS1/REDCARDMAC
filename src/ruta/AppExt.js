@@ -7,7 +7,6 @@ import {
 
 import Typography from "@material-ui/core/Typography";
 import Btn from "./btn";
-import Card1 from "./cards/Card1";
 import Button from "@material-ui/core/Button";
 import OldButtons from "./Componentes/OldButtons";
 
