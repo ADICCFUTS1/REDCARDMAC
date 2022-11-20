@@ -93,13 +93,13 @@ export default function MainJS() {
               </Button>
               <Divider />
             </div>{" "}
-            <Typography gutterBottom variant="h5" component="h2">
+            {/*<Typography gutterBottom variant="h5" component="h2">
               Destacado
             </Typography>
             <Card1 />
-            <p></p>
+  <p></p>*/}
             <Typography gutterBottom variant="h5" component="h2">
-              Todos los eventos
+              Todos los eventos:
             </Typography>
             <AllData />
           </Container>
