@@ -39,8 +39,8 @@ const ButtonsDefault = () => {
         <div className={classes.root}>
           <Btn Valor={Enlaces[0]} />
           <Btn Valor={Enlaces[1]} />
-          <Btn Valor={Enlaces[2]} />
-          {/*<Btn Valor={Enlaces[3]} />
+          {/*<Btn Valor={Enlaces[2]} />
+          <Btn Valor={Enlaces[3]} />
           <Btn Valor={Enlaces[4]} />
       <Btn Valor={Enlaces[5]} />*/}
           <Button
