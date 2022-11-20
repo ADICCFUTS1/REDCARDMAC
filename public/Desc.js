@@ -6,4 +6,4 @@ const Enlaces = [
   "https://react-cms-omega.vercel.app/?txt=9",
   "https://react-cms-omega.vercel.app/?txt=10"
 ];
-const x = 1;
+const x = 0;
