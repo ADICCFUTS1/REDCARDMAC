@@ -97,6 +97,7 @@ export default function MainJS() {
               Destacado
             </Typography>
             <Card1 />
+            <p></p>
             <Typography gutterBottom variant="h5" component="h2">
               Todos los eventos
             </Typography>
