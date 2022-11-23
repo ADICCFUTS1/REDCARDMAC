@@ -1,27 +1,12 @@
 [
   {
-    "dt": "1669111200",
-    "Partido": "Argentina - Arabia Saudí",
+    "dt": "1669197600",
+    "Partido": "Marruecos - Croacia",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1669122000",
-    "Partido": "Dinamarca - Túnez",
-    "Competicion": "Copa Mundial",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,14 +15,14 @@
     }
   },
   {
-    "dt": "1669132800",
-    "Partido": "México - Polonia",
+    "dt": "1669208400",
+    "Partido": "Alemania - Japón",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=2",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -45,14 +30,29 @@
     }
   },
   {
-    "dt": "1669143600",
-    "Partido": "Francia - Australia",
+    "dt": "1669219200",
+    "Partido": "España - Costa Rica",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=7",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1669230000",
+    "Partido": "Bélgica - Canadá",
+    "Competicion": "Copa Mundial",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
