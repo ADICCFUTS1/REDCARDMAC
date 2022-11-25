@@ -1,7 +1,7 @@
 [
   {
-    "dt": "1669284000",
-    "Partido": "Suiza - Camerún",
+    "dt": "1669370400",
+    "Partido": "Gales - Irán",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -15,8 +15,8 @@
     }
   },
   {
-    "dt": "1669294800",
-    "Partido": "Uruguay - Corea del Sur",
+    "dt": "1669381200",
+    "Partido": "Catar - Senegal",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -30,14 +30,14 @@
     }
   },
   {
-    "dt": "1669305600",
-    "Partido": "Portugal - Ghana",
+    "dt": "1669392000",
+    "Partido": "Países Bajos - Ecuador",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -45,14 +45,14 @@
     }
   },
   {
-    "dt": "1669316400",
-    "Partido": "Brasil - Serbia",
+    "dt": "1669402800",
+    "Partido": "Inglaterra - Estados Unidos",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
