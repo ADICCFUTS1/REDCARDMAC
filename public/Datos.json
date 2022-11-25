@@ -34,7 +34,7 @@
     "Partido": "Países Bajos - Ecuador",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "https://react-cms-omega.vercel.app/?txt=3",
@@ -51,8 +51,8 @@
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=5",
       "valor3": "",
       "valor4": "",
       "valor5": "",
