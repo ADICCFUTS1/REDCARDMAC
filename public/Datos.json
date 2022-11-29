@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1669629600",
-    "Partido": "Camerún - Serbia",
+    "dt": "1669734000",
+    "Partido": "Ecuador - Senegal",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -15,23 +15,8 @@
     }
   },
   {
-    "dt": "1669640400",
-    "Partido": "Corea del Sur - Ghana",
-    "Competicion": "Copa Mundial",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1669651200",
-    "Partido": "Brasil - Suiza",
+    "dt": "1669734000",
+    "Partido": "Países Bajos - Catar",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -45,15 +30,30 @@
     }
   },
   {
-    "dt": "1669662000",
-    "Partido": "Portugal - Uruguay",
+    "dt": "1669748400",
+    "Partido": "Gales - Inglaterra",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1669748400",
+    "Partido": "Irán - Estados Unidos",
+    "Competicion": "Copa Mundial",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
