@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1669734000",
-    "Partido": "Ecuador - Senegal",
+    "dt": "1669820400",
+    "Partido": "Australia - Dinamarca",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -15,14 +15,14 @@
     }
   },
   {
-    "dt": "1669734000",
-    "Partido": "Países Bajos - Catar",
+    "dt": "1669820400",
+    "Partido": "Túnez - Francia",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=2",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -30,14 +30,14 @@
     }
   },
   {
-    "dt": "1669748400",
-    "Partido": "Gales - Inglaterra",
+    "dt": "1669834800",
+    "Partido": "Polonia - Argentina",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -45,14 +45,14 @@
     }
   },
   {
-    "dt": "1669748400",
-    "Partido": "Irán - Estados Unidos",
+    "dt": "1669834800",
+    "Partido": "Arabia Saudí - México",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=7",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
