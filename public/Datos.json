@@ -1,12 +1,42 @@
 [
   {
-    "dt": "1669906800",
-    "Partido": "Canadá - Marruecos",
+    "dt": "1669993200",
+    "Partido": "Ghana - Uruguay",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1669993200",
+    "Partido": "Corea del Sur - Portugal",
+    "Competicion": "Copa Mundial",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1670007600",
+    "Partido": "Serbia - Suiza",
+    "Competicion": "Copa Mundial",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -15,45 +45,15 @@
     }
   },
   {
-    "dt": "1669906800",
-    "Partido": "Croacia - Bélgica",
+    "dt": "1670007600",
+    "Partido": "Camerún - Brasil",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1669921200",
-    "Partido": "Costa Rica - Alemania",
-    "Competicion": "Copa Mundial",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1669921200",
-    "Partido": "Japón - España",
-    "Competicion": "Copa Mundial",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=8",
       "valor4": "",
       "valor5": "",
       "valor6": ""
