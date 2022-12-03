@@ -1,28 +1,13 @@
 [
   {
-    "dt": "1669993200",
-    "Partido": "Ghana - Uruguay",
+    "dt": "1670079600",
+    "Partido": "Países Bajos - Estados Unidos",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1669993200",
-    "Partido": "Corea del Sur - Portugal",
-    "Competicion": "Copa Mundial",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -30,30 +15,15 @@
     }
   },
   {
-    "dt": "1670007600",
-    "Partido": "Serbia - Suiza",
+    "dt": "1670094000",
+    "Partido": "Argentina - Australia",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1670007600",
-    "Partido": "Camerún - Brasil",
-    "Competicion": "Copa Mundial",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=8",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=9",
       "valor4": "",
       "valor5": "",
       "valor6": ""
