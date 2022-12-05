@@ -1,29 +1,29 @@
 [
   {
-    "dt": "1670166000",
-    "Partido": "Francia - Polonia",
+    "dt": "1670252400",
+    "Partido": "Japón - Croacia",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
     }
   },
   {
-    "dt": "1670180400",
-    "Partido": "Inglaterra - Senegal",
+    "dt": "1670266800",
+    "Partido": "Brasil - Corea del Sur",
     "Competicion": "Copa Mundial",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
