@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect } from "react";
+import { makeStyles } from "@material-ui/core/styles";
 import { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme } from "./styles/Themes";
 import { useDarkMode } from "./styles/useDarkMode";
@@ -8,24 +9,42 @@ import "./styles/App.css";
 import { fetchApi } from "./api";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Container from "@material-ui/core/Container";
-import Header from "./Componentes/Header";
-// import Destacado from "./cards/Card1";
-import TodosLosEventos from "./AppExt";
+import Header from "./Componentes/Header"; // Importamos el componente Header aquí
+// import Destacado from "./cards/Card1"; // Importamos el componente Destacado aquí
+import TodosLosEventos from "./AppExt"; // Importamos el componente TodosLosEventos aquí
 import MenuButtons from "./Componentes/MenuButtons";
 
-const MainJS = React.memo(() => {
+const useStyles = makeStyles((theme) => ({
+  root: {
+    "& > *": {
+      margin: theme.spacing(1)
+    }
+  },
+  margin: {
+    margin: theme.spacing(1)
+  },
+  extendedIcon: {
+    marginRight: theme.spacing(1)
+  },
+  paper: {
+    padding: theme.spacing(2),
+    textAlign: "center"
+  }
+}));
+
+const MainJS = () => {
   const [theme, themeToggler] = useDarkMode();
   const themeMode = theme === "light" ? lightTheme : darkTheme;
   const [todos, setTodos] = useState([]);
 
-  const fetchData = useCallback(async () => {
-    const response = await fetchApi();
-    setTodos(response);
-  }, []);
-
   useEffect(() => {
+    async function fetchData() {
+      const response = await fetchApi();
+      setTodos(response);
+    }
+
     fetchData();
-  }, [fetchData, todos]);
+  }, []);
 
   return (
     <ThemeProvider theme={themeMode}>
@@ -46,6 +65,6 @@ const MainJS = React.memo(() => {
       </div>
     </ThemeProvider>
   );
-});
+};
 
 export default MainJS;
