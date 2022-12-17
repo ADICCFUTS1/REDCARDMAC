@@ -5,9 +5,9 @@ import CardActionArea from "@material-ui/core/CardActionArea";
 import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
-import ButtonDefault from "../Componentes/ButtonsDefault";
-import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
+import OldButtons from "../Componentes/OldButtons";
+import { getFormattedTime } from "../utils";
 
 const useStyles = makeStyles({
   root: {
@@ -18,36 +18,37 @@ const useStyles = makeStyles({
   }
 });
 
-export default function Card1(props) {
+const Card1 = (props) => {
   const classes = useStyles();
-  const dta = [];
-  const date = new Date(1668960000 * 1000);
-  const hours = "0" + date.getHours();
-  const minutes = "0" + date.getMinutes();
-  const formattedTime =
-    hours.substr(-2) + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
-  dta.push(formattedTime);
+  const { todos } = props;
+  const todo = todos[0];
+
   return (
     <div>
-      <div>
+      <Typography gutterBottom variant="h5" component="h2">
+        Evento destacado:
+      </Typography>
+      {todo && (
         <Card className={classes.root}>
           <CardActionArea>
             <CardMedia
               className={classes.media}
-              image="/img/qatar.jpg"
-              title="Contemplative Reptile"
+              image={todo.Image}
+              title={todo.Partido}
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="h2">
-                {dta[0]} Qatar - Ecuador
+                {getFormattedTime(todo)} {todo.Partido}
               </Typography>
             </CardContent>
           </CardActionArea>
           <CardActions>
-            <ButtonDefault />
+            <OldButtons {...todo} />
           </CardActions>
         </Card>
-      </div>
+      )}
     </div>
   );
-}
+};
+
+export default Card1;
