@@ -1,18 +1,18 @@
 [
   {
-    "dt": "1671289200",
-    "Partido": "Croacia - Marruecos",
+    "dt": "1671375600",
+    "Partido": "Argentina - Francia",
     "Competicion": "Copa Mundial",
-    "Image": "",
+    "Image": "https://e.rpp-noticias.io/normal/2022/12/15/530353_1362216.jpg",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
       "valor3": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
+      "valor4": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor5": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor6": "https://react-cms-omega.vercel.app/?txt=5"
     }
   }
 ]
