@@ -10,7 +10,7 @@ import { fetchApi } from "./api";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Container from "@material-ui/core/Container";
 import Header from "./Componentes/Header"; // Importamos el componente Header aquí
-import Destacado from "./cards/Card1"; // Importamos el componente Destacado aquí
+// import Destacado from "./cards/Card1"; // Importamos el componente Destacado aquí
 import TodosLosEventos from "./AppExt"; // Importamos el componente TodosLosEventos aquí
 import MenuButtons from "./Componentes/MenuButtons";
 
@@ -56,8 +56,8 @@ const MainJS = () => {
             <Toggle theme={theme} toggleTheme={themeToggler} />
             <Header />
             <MenuButtons />
-            <div style={{ marginTop: "10px" }}></div>
-            <Destacado todos={todos} />
+            {/* <div style={{ marginTop: "10px" }}></div>
+            <Destacado todos={todos} /> */}
             <div style={{ marginTop: "10px" }}></div>
             <TodosLosEventos todos={todos} />
           </Container>
