@@ -37,14 +37,14 @@ const MainJS = () => {
   const themeMode = theme === "light" ? lightTheme : darkTheme;
   const [todos, setTodos] = useState([]);
 
-  useEffect(() => {
-    async function fetchData() {
-      const response = await fetchApi();
-      setTodos(response);
-    }
+  const fetchData = async () => {
+    const response = await fetchApi(); // aquí se obtienen los datos del JSON
+    setTodos(response); // aquí se asignan los datos al estado del componente
+  };
 
+  useEffect(() => {
     fetchData();
-  }, []);
+  }, []); // se ejecutará cada vez que se renderiza el componente
 
   return (
     <ThemeProvider theme={themeMode}>
