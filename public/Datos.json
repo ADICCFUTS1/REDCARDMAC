@@ -1,14 +1,14 @@
 [
   {
-    "dt": "1672057800",
-    "Partido": "Brentford - Tottenham",
+    "dt": "1672162200",
+    "Partido": "Chelsea - Bournemouth",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -16,30 +16,14 @@
     }
   },
   {
-    "dt": "1672075800",
-    "Partido": "Aston Villa - Liverpool",
+    "dt": "1672171200",
+    "Partido": "Manchester United - Nottingham Forest",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1672084800",
-    "Partido": "Arsenal - West Ham",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
