@@ -1,7 +1,7 @@
 [
   {
-    "dt": "1672329600",
-    "Partido": "Girona - Rayo Vallecano",
+    "dt": "1672416000",
+    "Partido": "Getafe - Mallorca",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1672337700",
-    "Partido": "Real Betis - Athletic de Bilbao",
+    "dt": "1672424100",
+    "Partido": "Celta de Vigo - Sevilla",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,15 +32,47 @@
     }
   },
   {
-    "dt": "1672345800",
-    "Partido": "Atlético de Madrid - Elche",
+    "dt": "1672424100",
+    "Partido": "Cádiz - Almería",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1672430400",
+    "Partido": "Liverpool - Leicester",
+    "Competicion": "Premier League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1672432200",
+    "Partido": "Valladolid - Real Madrid",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
