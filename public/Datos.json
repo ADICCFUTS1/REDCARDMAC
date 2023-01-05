@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1672831800",
-    "Partido": "Salernitana - AC Milan",
-    "Competicion": "Serie A",
+    "dt": "1672930800",
+    "Partido": "CD Ibiza Islas Pitiusas - Real Betis",
+    "Competicion": "Copa del Rey",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,94 +16,14 @@
     }
   },
   {
-    "dt": "1672853400",
-    "Partido": "Cremonese - Juventus",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1672855200",
-    "Partido": "UD Logronés - Real Sociedad",
-    "Competicion": "Copa del Rey",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1672855200",
-    "Partido": "Linares Deportivo - Sevilla",
-    "Competicion": "Copa del Rey",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1672858800",
-    "Partido": "Oviedo - Atlético de Madrid",
-    "Competicion": "Copa del Rey",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1672861500",
-    "Partido": "Inter de Milán - Nápoles",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1672862400",
-    "Partido": "Crystal Palace - Tottenham",
+    "dt": "1672948800",
+    "Partido": "Chelsea - Manchester City",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -112,16 +32,16 @@
     }
   },
   {
-    "dt": "1672862400",
-    "Partido": "CF Intercity - Barcelona",
+    "dt": "1672948800",
+    "Partido": "Eldense - Athletic de Bilbao",
     "Competicion": "Copa del Rey",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=8",
-      "valor3": "https://react-cms-omega.vercel.app/?txt=9",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
