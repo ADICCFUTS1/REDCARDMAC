@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1673294400",
-    "Partido": "Athletic de Bilbao - Osasuna",
-    "Competicion": "LaLiga",
+    "dt": "1673380800",
+    "Partido": "Manchester United - Charlton",
+    "Competicion": "EFL Cup",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1673294400",
-    "Partido": "Oxford Utd - Arsenal",
-    "Competicion": "FA Cup",
+    "dt": "1673380800",
+    "Partido": "Inter de Milán - Parma",
+    "Competicion": "Copa de Italia",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
