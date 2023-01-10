@@ -38,14 +38,8 @@ const MainJS = () => {
   const [todos, setTodos] = useState([]);
 
   const fetchData = async () => {
-    const data = localStorage.getItem("todos");
-    if (data) {
-      setTodos(JSON.parse(data));
-    } else {
-      const response = await fetchApi();
-      setTodos(response);
-      localStorage.setItem("todos", JSON.stringify(response));
-    }
+    const response = await fetchApi(); // aquí se obtienen los datos del JSON
+    setTodos(response); // aquí se asignan los datos al estado del componente
   };
 
   useEffect(() => {
@@ -63,7 +57,7 @@ const MainJS = () => {
             <Header />
             <MenuButtons />
             {/* <div style={{ marginTop: "10px" }}></div>
-    <Destacado todos={todos} /> */}
+            <Destacado todos={todos} /> */}
             <div style={{ marginTop: "10px" }}></div>
             <TodosLosEventos todos={todos} />
           </Container>
