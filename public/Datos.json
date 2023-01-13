@@ -1,29 +1,29 @@
 [
   {
-    "dt": "1673550000",
-    "Partido": "Real Betis - Barcelona",
-    "Competicion": "Supercopa España",
+    "dt": "1673639100",
+    "Partido": "Nápoles - Juventus",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=2",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
     }
   },
   {
-    "dt": "1673553600",
-    "Partido": "Fulham - Chelsea",
-    "Competicion": "Premier League",
+    "dt": "1673640000",
+    "Partido": "Celta de Vigo - Villarreal",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
