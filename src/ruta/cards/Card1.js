@@ -37,6 +37,7 @@ const Card1 = (props) => {
               title={todo.Partido}
             />
             <CardContent>
+              <Typography>{todo.Competicion}:</Typography>
               <Typography gutterBottom variant="h5" component="h2">
                 {getFormattedTime(todo)} {todo.Partido}
               </Typography>
