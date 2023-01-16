@@ -1,93 +1,13 @@
 [
   {
-    "dt": "1673787600",
-    "Partido": "Getafe - Espanyol",
+    "dt": "1673899200",
+    "Partido": "Cádiz - Elche",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1673791200",
-    "Partido": "Chelsea - Crystal Palace",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1673795700",
-    "Partido": "Almería - Atlético de Madrid",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1673800200",
-    "Partido": "Tottenham - Arsenal",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1673809200",
-    "Partido": "Real Madrid - Barcelona",
-    "Competicion": "Supercopa España",
-    "Image": "https://i.imgur.com/KYZRYUg.jpg",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=5",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=6",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=7",
-      "valor4": "https://react-cms-omega.vercel.app/blog?txt=8",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1673811900",
-    "Partido": "Rennes - Paris St. Germain",
-    "Competicion": "Ligue 1",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=9",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
