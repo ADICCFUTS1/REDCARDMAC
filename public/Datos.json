@@ -5,9 +5,9 @@
     "Competicion": "Bundesliga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
