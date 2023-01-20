@@ -1,29 +1,13 @@
 [
   {
-    "dt": "1674154800",
-    "Partido": "AD Ceuta - Barcelona",
-    "Competicion": "Copa del Rey",
+    "dt": "1674243000",
+    "Partido": "RB Leipzig - Bayern de Múnich",
+    "Competicion": "Bundesliga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1674158400",
-    "Partido": "Manchester City - Tottenham",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,30 +16,14 @@
     }
   },
   {
-    "dt": "1674158400",
-    "Partido": "Villarreal - Real Madrid",
-    "Competicion": "Copa del Rey",
+    "dt": "1674244800",
+    "Partido": "Mallorca - Celta de Vigo",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=5",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=6",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1674158400",
-    "Partido": "Juventus - Monza",
-    "Competicion": "Copa de Italia",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=7",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
