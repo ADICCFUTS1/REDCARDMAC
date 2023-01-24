@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1674417600",
-    "Partido": "Paris St. Germain - Brest",
-    "Competicion": "Copa de Francia",
+    "dt": "1674588600",
+    "Partido": "Bayern de Múnich - Colonia",
+    "Competicion": "Bundesliga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,46 +16,14 @@
     }
   },
   {
-    "dt": "1674503100",
-    "Partido": "Inter de Milán - Empoli",
+    "dt": "1674589500",
+    "Partido": "Lazio - AC Milan",
     "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1674504000",
-    "Partido": "Fulham - Tottenham",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1674504000",
-    "Partido": "Valencia - Almería",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
