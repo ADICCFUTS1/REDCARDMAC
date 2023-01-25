@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1674588600",
-    "Partido": "Bayern de Múnich - Colonia",
+    "dt": "1674667800",
+    "Partido": "Mainz - Borussia Dortmund",
     "Competicion": "Bundesliga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,46 @@
     }
   },
   {
-    "dt": "1674589500",
-    "Partido": "Lazio - AC Milan",
-    "Competicion": "Serie A",
+    "dt": "1674676800",
+    "Partido": "Barcelona - Real Sociedad",
+    "Competicion": "Copa del Rey",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1674676800",
+    "Partido": "Nottingham Forest - Manchester United",
+    "Competicion": "EFL Cup",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1674680400",
+    "Partido": "Osasuna - Sevilla",
+    "Competicion": "Copa del Rey",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
