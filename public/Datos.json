@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1674667800",
-    "Partido": "Mainz - Borussia Dortmund",
-    "Competicion": "Bundesliga",
+    "dt": "1674759600",
+    "Partido": "Valencia - Athletic de Bilbao",
+    "Competicion": "Copa del Rey",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,46 +16,14 @@
     }
   },
   {
-    "dt": "1674676800",
-    "Partido": "Barcelona - Real Sociedad",
+    "dt": "1674763200",
+    "Partido": "Real Madrid - Atlético de Madrid",
     "Competicion": "Copa del Rey",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1674676800",
-    "Partido": "Nottingham Forest - Manchester United",
-    "Competicion": "EFL Cup",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1674680400",
-    "Partido": "Osasuna - Sevilla",
-    "Competicion": "Copa del Rey",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=5",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
