@@ -1,14 +1,14 @@
 [
   {
-    "dt": "1674759600",
-    "Partido": "Valencia - Athletic de Bilbao",
-    "Competicion": "Copa del Rey",
+    "dt": "1674849600",
+    "Partido": "Manchester City - Arsenal",
+    "Competicion": "FA Cup",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -16,16 +16,16 @@
     }
   },
   {
-    "dt": "1674763200",
-    "Partido": "Real Madrid - Atlético de Madrid",
-    "Competicion": "Copa del Rey",
+    "dt": "1674849600",
+    "Partido": "Almería - Espanyol",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=4",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
