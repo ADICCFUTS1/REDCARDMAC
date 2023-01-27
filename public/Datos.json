@@ -5,9 +5,9 @@
     "Competicion": "FA Cup",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -19,6 +19,38 @@
     "dt": "1674849600",
     "Partido": "Almería - Espanyol",
     "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1674857700",
+    "Partido": "Rosario Central - Argentinos Juniors",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1674865800",
+    "Partido": "Defensa y Justicia - Huracán",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
