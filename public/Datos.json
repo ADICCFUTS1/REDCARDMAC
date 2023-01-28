@@ -64,7 +64,7 @@
     }
   },
   {
-    "dt": "1675002600",
+    "dt": "1674927000",
     "Partido": "Bayern de Múnich - Eintracht Frankfurt",
     "Competicion": "Bundesliga",
     "Image": "",
@@ -72,6 +72,22 @@
     "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=6",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1674928800",
+    "Partido": "Preston - Tottenham",
+    "Competicion": "FA Cup",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 1,
+    "EnlaceMatchs": {
+      "valor1": "https://react-cms-omega.vercel.app/blog?txt=7",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -99,6 +115,22 @@
     "dt": "1674936000",
     "Partido": "Getafe - Real Betis",
     "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1674936000",
+    "Partido": "Manchester United - Reading",
+    "Competicion": "FA Cup",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
