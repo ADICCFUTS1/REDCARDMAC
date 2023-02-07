@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1675713600",
-    "Partido": "Rayo Vallecano - Almería",
-    "Competicion": "LaLiga",
+    "dt": "1675796400",
+    "Partido": "Flamengo - Al Hilal Riyadh",
+    "Competicion": "Mundial de clubes",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,30 +16,14 @@
     }
   },
   {
-    "dt": "1675717200",
-    "Partido": "Gimnasia La Plata - Defensa y Justicia",
-    "Competicion": "Liga Argentina",
+    "dt": "1675799100",
+    "Partido": "Salernitana - Juventus",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1675729800",
-    "Partido": "Huracán - Banfield",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
