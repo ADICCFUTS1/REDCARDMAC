@@ -1,8 +1,8 @@
 [
   {
     "dt": "1675882800",
-    "Partido": "Al Ahly Cairo - Real Madrid",
-    "Competicion": "Mundial de clubes",
+    "Partido": "No hay partidos disponibles",
+    "Competicion": "Error",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -10,54 +10,6 @@
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
       "valor3": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1675885500",
-    "Partido": "Bochum - Borussia Dortmund",
-    "Competicion": "DFB Pokal",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1675886400",
-    "Partido": "Manchester United - Leeds",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1675972800",
-    "Partido": "Paris St. Germain - Lorient",
-    "Competicion": "Copa de Francia",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=5",
-      "valor2": "",
-      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
