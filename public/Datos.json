@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1676118600",
-    "Partido": "West Ham - Chelsea",
-    "Competicion": "Premier League",
+    "dt": "1676206800",
+    "Partido": "Getafe - Rayo Vallecano",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1676125800",
-    "Partido": "Bayern de Múnich - Bochum",
-    "Competicion": "Bundesliga",
+    "dt": "1676210400",
+    "Partido": "Leeds - Manchester United",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,15 +32,15 @@
     }
   },
   {
-    "dt": "1676125800",
-    "Partido": "Werder Bremen - Borussia Dortmund",
-    "Competicion": "Bundesliga",
+    "dt": "1676214900",
+    "Partido": "Celta de Vigo - Atlético de Madrid",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor2": "",
+      "valor2": "https://react-cms-omega.vercel.app/blog?txt=3",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -48,24 +48,8 @@
     }
   },
   {
-    "dt": "1676127600",
-    "Partido": "Arsenal - Brentford",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1676127600",
-    "Partido": "Leicester - Tottenham",
+    "dt": "1676219400",
+    "Partido": "Manchester City - Aston Villa",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -80,9 +64,9 @@
     }
   },
   {
-    "dt": "1676128500",
-    "Partido": "Almería - Real Betis",
-    "Competicion": "LaLiga",
+    "dt": "1676221200",
+    "Partido": "Juventus - Fiorentina",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -96,14 +80,14 @@
     }
   },
   {
-    "dt": "1676129400",
-    "Partido": "Al Ahly Cairo - Flamengo",
-    "Competicion": "Mundial de clubes",
+    "dt": "1676231100",
+    "Partido": "Nápoles - Cremonese",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -112,30 +96,14 @@
     }
   },
   {
-    "dt": "1676131200",
-    "Partido": "Mónaco - Paris St. Germain",
-    "Competicion": "Ligue 1",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=7",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=8",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1676136600",
-    "Partido": "Sevilla - Mallorca",
+    "dt": "1676232000",
+    "Partido": "Villarreal - Barcelona",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=9",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -144,30 +112,14 @@
     }
   },
   {
-    "dt": "1676142000",
-    "Partido": "Real Madrid - Al Hilal Riyadh",
-    "Competicion": "Mundial de clubes",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=10",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=11",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=12",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1676145600",
-    "Partido": "San Lorenzo - Godoy Cruz",
+    "dt": "1676232000",
+    "Partido": "Rosario Central - Arsenal de Sarandí",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=13",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -176,14 +128,14 @@
     }
   },
   {
-    "dt": "1676145600",
-    "Partido": "Defensa y Justicia - Newell's Old Boys",
+    "dt": "1676232000",
+    "Partido": "Banfield - Gimnasia La Plata",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=14",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -192,30 +144,14 @@
     }
   },
   {
-    "dt": "1676145600",
-    "Partido": "Valencia - Athletic de Bilbao",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=15",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1676154600",
-    "Partido": "CA Platense - Club Atlético Tucumán",
+    "dt": "1676240100",
+    "Partido": "River Plate - Argentinos Juniors",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=16",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -224,14 +160,14 @@
     }
   },
   {
-    "dt": "1676161800",
-    "Partido": "Vélez Sársfield - CA Independiente",
+    "dt": "1676248200",
+    "Partido": "Racing Club - CA Tigre",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=17",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -240,14 +176,14 @@
     }
   },
   {
-    "dt": "1676161800",
-    "Partido": "CA Talleres de Córdoba - Boca Juniors",
+    "dt": "1676248200",
+    "Partido": "Instituto AC Cordoba - Huracán",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=18",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
