@@ -101,7 +101,7 @@
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=7",
       "valor2": "https://react-cms-omega.vercel.app/blog?txt=8",
@@ -117,7 +117,7 @@
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=10",
       "valor2": "",
@@ -133,7 +133,7 @@
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=11",
       "valor2": "",
