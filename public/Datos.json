@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1676923200",
-    "Partido": "Getafe - Valencia",
-    "Competicion": "LaLiga",
+    "dt": "1677009600",
+    "Partido": "Liverpool - Real Madrid",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1676931300",
-    "Partido": "Sarmiento - San Lorenzo",
-    "Competicion": "Liga Argentina",
+    "dt": "1677009600",
+    "Partido": "Eintracht Frankfurt - Nápoles",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +32,14 @@
     }
   },
   {
-    "dt": "1676939400",
-    "Partido": "Club Atlético Tucumán - Vélez Sársfield",
-    "Competicion": "Liga Argentina",
+    "dt": "1677025800",
+    "Partido": "Independiente del Valle - Flamengo",
+    "Competicion": "Recopa Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
