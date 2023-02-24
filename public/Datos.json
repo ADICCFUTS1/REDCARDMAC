@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1677174300",
-    "Partido": "Nantes - Juventus",
-    "Competicion": "UEFA Europa League",
+    "dt": "1677268800",
+    "Partido": "Elche - Real Betis",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1677174300",
-    "Partido": "PSV Eindhoven - Sevilla",
-    "Competicion": "UEFA Europa League",
+    "dt": "1677283200",
+    "Partido": "Belgrano - CA Tigre",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,16 +32,16 @@
     }
   },
   {
-    "dt": "1677182400",
-    "Partido": "Manchester United - Barcelona",
-    "Competicion": "UEFA Europa League",
+    "dt": "1677283200",
+    "Partido": "Rosario Central - Godoy Cruz",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=5",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=6",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
