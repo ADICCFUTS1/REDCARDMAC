@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1677528000",
-    "Partido": "Villarreal - Getafe",
-    "Competicion": "LaLiga",
+    "dt": "1677613500",
+    "Partido": "Juventus - Torino",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1677528000",
-    "Partido": "Barracas Central - Gimnasia La Plata",
-    "Competicion": "Liga Argentina",
+    "dt": "1677614400",
+    "Partido": "Bristol City - Manchester City",
+    "Competicion": "FA Cup",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,30 +32,14 @@
     }
   },
   {
-    "dt": "1677536100",
-    "Partido": "Racing Club - Lanús",
-    "Competicion": "Liga Argentina",
+    "dt": "1677630600",
+    "Partido": "Flamengo - Independiente del Valle",
+    "Competicion": "Recopa Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1677544200",
-    "Partido": "Central Córdoba SdE - Argentinos Juniors",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
