@@ -21,7 +21,7 @@ const useStyles = makeStyles({
 const Card1 = (props) => {
   const classes = useStyles();
   const { todos } = props;
-  const todo = todos[4];
+  const todo = todos[0];
 
   return (
     <div>
