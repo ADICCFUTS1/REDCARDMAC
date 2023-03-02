@@ -56,8 +56,8 @@ const MainJS = () => {
             <Toggle theme={theme} toggleTheme={themeToggler} />
             <Header />
             <MenuButtons />
-            <div style={{ marginTop: "10px" }}></div>
-            <Destacado todos={todos} />
+            {/* <div style={{ marginTop: "10px" }}></div>
+            <Destacado todos={todos} /> */}
             <div style={{ marginTop: "10px" }}></div>
             <TodosLosEventos todos={todos} />
           </Container>
