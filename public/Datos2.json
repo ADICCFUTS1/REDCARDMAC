@@ -1,7 +1,7 @@
 [
   {
-    "dt": "1678046400",
-    "Partido": "CA Independiente - Instituto AC Cordoba",
+    "dt": "1678132800",
+    "Partido": "Godoy Cruz - Racing Club",
     "Competicion": "Liga Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": "0",
@@ -14,8 +14,8 @@
     "Image": ""
   },
   {
-    "dt": "1678054500",
-    "Partido": "Huracán - San Lorenzo",
+    "dt": "1678132800",
+    "Partido": "Arsenal de Sarandí - Belgrano",
     "Competicion": "Liga Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": "0",
@@ -28,11 +28,25 @@
     "Image": ""
   },
   {
-    "dt": "1678062600",
-    "Partido": "CA Talleres de Córdoba - Vélez Sársfield",
+    "dt": "1678132800",
+    "Partido": "Osasuna - Celta de Vigo",
+    "Competicion": "LaLiga",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": "0",
+    "valor1": "null",
+    "valor2": "null",
+    "valor3": "null",
+    "valor4": "null",
+    "valor5": "null",
+    "valor6": "null",
+    "Image": ""
+  },
+  {
+    "dt": "1678147200",
+    "Partido": "Boca Juniors - Defensa y Justicia",
     "Competicion": "Liga Argentina",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": "0",
     "valor1": "null",
     "valor2": "null",
     "valor3": "null",
