@@ -5,7 +5,7 @@
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido1",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
@@ -21,7 +21,7 @@
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://csb-vvcdv9-adiccfut.vercel.app/partido2",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
       "valor2": "https://react-cms-omega.vercel.app/blog?txt=4",
