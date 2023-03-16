@@ -1,14 +1,14 @@
 [
   {
-    "dt": "1678910400",
-    "Partido": "Nápoles - Eintracht Frankfurt",
-    "Competicion": "UEFA Champions League",
+    "dt": "1678988700",
+    "Partido": "Fenerbahce - Sevilla",
+    "Competicion": "UEFA Europa League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -16,16 +16,80 @@
     }
   },
   {
-    "dt": "1678910400",
-    "Partido": "Real Madrid - Liverpool",
-    "Competicion": "UEFA Champions League",
+    "dt": "1678988700",
+    "Partido": "SC Friburgo - Juventus",
+    "Competicion": "UEFA Europa League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=4",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1678988700",
+    "Partido": "Real Betis - Manchester United",
+    "Competicion": "UEFA Europa League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1678996800",
+    "Partido": "Arsenal - Sporting de Lisboa",
+    "Competicion": "UEFA Europa League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1678996800",
+    "Partido": "Real Sociedad - Roma",
+    "Competicion": "UEFA Europa League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1678996800",
+    "Partido": "Villarreal - Anderlecht",
+    "Competicion": "UEFA Conference League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
