@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1679942700",
-    "Partido": "Irlanda - Francia",
+    "dt": "1680029100",
+    "Partido": "Escocia - España",
     "Competicion": "Eliminatorias Euro",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,30 @@
     }
   },
   {
-    "dt": "1679942700",
-    "Partido": "Países Bajos - Gibraltar",
+    "dt": "1680029100",
+    "Partido": "Turquía - Croacia",
     "Competicion": "Eliminatorias Euro",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1680046200",
+    "Partido": "Argentina - Curação",
+    "Competicion": "Amistoso",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
