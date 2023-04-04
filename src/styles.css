@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+a {
+  -webkit-user-drag: none; /* Safari */
+  -khtml-user-drag: none; /* Konqueror HTML */
+  -moz-user-drag: none; /* Firefox */
+  -o-user-drag: none; /* Opera */
+  user-drag: none; /* Standard */
+}

@@ -14,7 +14,12 @@ import Button from "@material-ui/core/Button";
 //componente a exportar
 const Btn = (props) => {
   return (
-    <Button variant="contained" color="primary" href={props.Valor}>
+    <Button
+      variant="contained"
+      color="primary"
+      draggable="false"
+      href={props.Valor}
+    >
       ABRIR
     </Button>
   );

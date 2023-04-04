@@ -69,7 +69,12 @@ const Buttons = (props) => {
         ""
       )}
       <div className={classes.root}>
-        <Button variant="contained" color="primary" href={props.Estadisticas}>
+        <Button
+          variant="contained"
+          color="primary"
+          draggable="false"
+          href={props.Estadisticas}
+        >
           Estadisticas
         </Button>
       </div>
