@@ -1,77 +1,13 @@
 [
   {
-    "dt": "1680720300",
-    "Partido": "RB Leipzig - Borussia Dortmund",
-    "Competicion": "DFB Pokal",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1680721200",
-    "Partido": "Barcelona - Real Madrid",
-    "Competicion": "Copa del Rey",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=2",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1680721200",
-    "Partido": "Manchester United - Brentford",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1680732000",
-    "Partido": "Oriente Petrolero - Estudiantes de La Plata",
-    "Competicion": "Conmebol Sudamericana",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1680732000",
-    "Partido": "SD Aucas - Flamengo",
+    "dt": "1680818400",
+    "Partido": "Liverpool Montevideo - Corinthians",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -80,14 +16,14 @@
     }
   },
   {
-    "dt": "1680739200",
-    "Partido": "Gimnasia La Plata - Universitario de Deportes",
+    "dt": "1680818400",
+    "Partido": "Huracán - Club Guaraní",
     "Competicion": "Conmebol Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=7",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -96,46 +32,30 @@
     }
   },
   {
-    "dt": "1680739200",
-    "Partido": "América MG - Peñarol",
+    "dt": "1680825600",
+    "Partido": "Monagas - Boca Juniors",
+    "Competicion": "Conmebol Libertadores",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1680825600",
+    "Partido": "CA Tigre - São Paulo",
     "Competicion": "Conmebol Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=8",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1680739200",
-    "Partido": "Cerro Porteño - Barcelona Sporting Club",
-    "Competicion": "Conmebol Libertadores",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=9",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1680739200",
-    "Partido": "Deportivo Ñublense - Racing Club",
-    "Competicion": "Conmebol Libertadores",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=10",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
