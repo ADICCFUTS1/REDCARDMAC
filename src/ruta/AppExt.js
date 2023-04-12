@@ -9,6 +9,10 @@ export default (props) => {
 
   return (
     <div>
+      <Typography>
+        ¡Recuerde que interacuar con los anuncios nos ayuda a seguir mejorando!
+      </Typography>
+      <p></p>
       <Typography gutterBottom variant="h5" component="h2">
         Todos los eventos:
       </Typography>
