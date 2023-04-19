@@ -1,45 +1,29 @@
 [
   {
-    "dt": "1681844400",
-    "Partido": "Chelsea - Real Madrid",
+    "dt": "1681930800",
+    "Partido": "Bayern de Múnich - Manchester City",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=1",
-      "valor3": "https://react-cms-omega.vercel.app/blog?txt=2",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
       "valor4": "",
       "valor5": "",
       "valor6": ""
     }
   },
   {
-    "dt": "1681844400",
-    "Partido": "Nápoles - AC Milan",
+    "dt": "1681930800",
+    "Partido": "Inter de Milán - Benfica",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=3",
-      "valor2": "https://react-cms-omega.vercel.app/blog?txt=4",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1681855200",
-    "Partido": "Newell's Old Boys - Blooming Santa Cruz",
-    "Competicion": "Conmebol Sudamericana",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=5",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -48,14 +32,14 @@
     }
   },
   {
-    "dt": "1681855200",
-    "Partido": "Internacional - Metropolitanos FC",
+    "dt": "1681941600",
+    "Partido": "Nacional De Football - Independiente Medellín",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -64,30 +48,14 @@
     }
   },
   {
-    "dt": "1681862400",
-    "Partido": "Estudiantes de La Plata - Tacuary",
-    "Competicion": "Conmebol Sudamericana",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=7",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1681862400",
-    "Partido": "Boca Juniors - Deportivo Pereira",
+    "dt": "1681948800",
+    "Partido": "River Plate - Sporting Cristal",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=8",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -96,14 +64,14 @@
     }
   },
   {
-    "dt": "1681862400",
-    "Partido": "Athletico Paranaense - Atlético Mineiro",
+    "dt": "1681950600",
+    "Partido": "Flamengo - Deportivo Ñublense",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=9",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -112,30 +80,14 @@
     }
   },
   {
-    "dt": "1681869600",
-    "Partido": "Independiente Santa Fe - Gimnasia La Plata",
-    "Competicion": "Conmebol Sudamericana",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=10",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1681869600",
-    "Partido": "Independiente del Valle - Liverpool Montevideo",
+    "dt": "1681950600",
+    "Partido": "Corinthians - Argentinos Juniors",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/blog?txt=11",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
