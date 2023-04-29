@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1682706600",
-    "Partido": "Bochum - Borussia Dortmund",
-    "Competicion": "Bundesliga",
+    "dt": "1682777700",
+    "Partido": "Elche - Rayo Vallecano",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1682708400",
-    "Partido": "Osasuna - Real Sociedad",
-    "Competicion": "LaLiga",
+    "dt": "1682784000",
+    "Partido": "Roma - AC Milan",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,14 +32,30 @@
     }
   },
   {
-    "dt": "1682719200",
-    "Partido": "Newell's Old Boys - Argentinos Juniors",
-    "Competicion": "Liga Argentina",
+    "dt": "1682785800",
+    "Partido": "Real Madrid - Almería",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor2": "https://www.reactapps.tech/blog?txt=3",
+      "valor3": "https://www.reactapps.tech/blog?txt=4",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1682787600",
+    "Partido": "Vélez Sársfield - San Lorenzo",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=5",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -48,14 +64,30 @@
     }
   },
   {
-    "dt": "1682719200",
-    "Partido": "Huracán - Arsenal de Sarandí",
+    "dt": "1682794800",
+    "Partido": "Barcelona - Real Betis",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=6",
+      "valor2": "https://www.reactapps.tech/blog?txt=7",
+      "valor3": "https://www.reactapps.tech/blog?txt=8",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1682796600",
+    "Partido": "Gimnasia La Plata - CA Tigre",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -64,14 +96,30 @@
     }
   },
   {
-    "dt": "1682728200",
-    "Partido": "Club Atlético Tucumán - River Plate",
+    "dt": "1682805600",
+    "Partido": "Banfield - Barracas Central",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=4",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1682814600",
+    "Partido": "Boca Juniors - Racing Club",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
