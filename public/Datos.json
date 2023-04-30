@@ -213,7 +213,7 @@
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=14",
       "valor2": "",
@@ -225,11 +225,11 @@
   },
   {
     "dt": "1682893800",
-    "Partido": "Unión de Santa Fe - Lanús",
+    "Partido": "Unión de Santa Fe - Lanús (suspendido)",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=15",
       "valor2": "",
@@ -245,9 +245,9 @@
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://www.reactapps.tech/blog?txt=16",
       "valor2": "",
       "valor3": "",
       "valor4": "",
