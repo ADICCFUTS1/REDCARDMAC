@@ -1,29 +1,13 @@
 [
   {
-    "dt": "1683129600",
-    "Partido": "Juventus - Lecce",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1683135000",
-    "Partido": "Valencia - Villarreal",
+    "dt": "1683221400",
+    "Partido": "Girona - Mallorca",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +16,30 @@
     }
   },
   {
-    "dt": "1683140400",
-    "Partido": "Verona - Inter de Milán",
+    "dt": "1683221400",
+    "Partido": "Sevilla - Espanyol",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1683225900",
+    "Partido": "Udinese - Nápoles",
     "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -48,30 +48,14 @@
     }
   },
   {
-    "dt": "1683140400",
-    "Partido": "AC Milan - Cremonese",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1683140400",
-    "Partido": "Manchester City - West Ham",
+    "dt": "1683226800",
+    "Partido": "Brighton - Manchester United",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -80,30 +64,14 @@
     }
   },
   {
-    "dt": "1683140400",
-    "Partido": "Liverpool - Fulham",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1683144000",
-    "Partido": "Getafe - Celta de Vigo",
+    "dt": "1683230400",
+    "Partido": "Rayo Vallecano - Valladolid",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=6",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -112,15 +80,15 @@
     }
   },
   {
-    "dt": "1683144000",
-    "Partido": "Atlético de Madrid - Cádiz",
+    "dt": "1683230400",
+    "Partido": "Athletic de Bilbao - Real Betis",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=7",
-      "valor2": "https://www.reactapps.tech/blog?txt=8",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
@@ -128,14 +96,14 @@
     }
   },
   {
-    "dt": "1683151200",
-    "Partido": "Palestino - San Lorenzo",
+    "dt": "1683237600",
+    "Partido": "Gimnasia La Plata - Goiás",
     "Competicion": "Conmebol Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=9",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -144,14 +112,14 @@
     }
   },
   {
-    "dt": "1683151200",
-    "Partido": "Internacional - Nacional De Football",
+    "dt": "1683237600",
+    "Partido": "Racing Club - Flamengo",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=10",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -160,14 +128,14 @@
     }
   },
   {
-    "dt": "1683158400",
-    "Partido": "Colo-Colo - Boca Juniors",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1683244800",
+    "Partido": "Audax Italiano - Blooming Santa Cruz",
+    "Competicion": "Conmebol Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=11",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -176,14 +144,30 @@
     }
   },
   {
-    "dt": "1683160200",
-    "Partido": "Barcelona Sporting Club - Palmeiras",
+    "dt": "1683244800",
+    "Partido": "Defensa y Justicia - Peñarol",
+    "Competicion": "Conmebol Sudamericana",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1683244800",
+    "Partido": "Club Libertad - Athletico Paranaense",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=12",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
