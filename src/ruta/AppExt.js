@@ -9,9 +9,12 @@ export default (props) => {
 
   return (
     <div>
-      <Typography variant="h4">
-        ¡Clic en los anuncios para ayudarnos!
+      <Typography>
+        ¡Recuerde que interacuar con los anuncios nos ayuda a seguir mejorando!
       </Typography>
+      {/* <Typography variant="h4">
+        ¡Clic en los anuncios para ayudarnos!
+      </Typography> */}
       <p></p>
       <Typography gutterBottom variant="h5" component="h2">
         Todos los eventos:
