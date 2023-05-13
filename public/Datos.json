@@ -5,7 +5,7 @@
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=0",
       "valor2": "",
@@ -21,7 +21,7 @@
     "Competicion": "Bundesliga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=1",
       "valor2": "",
@@ -80,28 +80,12 @@
     }
   },
   {
-    "dt": "1683986400",
-    "Partido": "Leicester - Liverpool",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
     "dt": "1683993600",
     "Partido": "Spezia - AC Milan",
     "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=6",
       "valor2": "",
