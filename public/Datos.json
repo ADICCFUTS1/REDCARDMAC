@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1684521000",
-    "Partido": "Godoy Cruz - Gimnasia La Plata",
-    "Competicion": "Liga Argentina",
+    "dt": "1684582200",
+    "Partido": "Tottenham - Brentford",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,8 +16,8 @@
     }
   },
   {
-    "dt": "1684522800",
-    "Partido": "Cádiz - Valladolid",
+    "dt": "1684584000",
+    "Partido": "Girona - Villarreal",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1684533600",
-    "Partido": "Central Córdoba SdE - Unión de Santa Fe",
-    "Competicion": "Liga Argentina",
+    "dt": "1684591200",
+    "Partido": "Liverpool - Aston Villa",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1684533600",
-    "Partido": "Rosario Central - Defensa y Justicia",
-    "Competicion": "Liga Argentina",
+    "dt": "1684591200",
+    "Partido": "Bournemouth - Manchester United",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,9 +64,9 @@
     }
   },
   {
-    "dt": "1684533600",
-    "Partido": "Estudiantes de La Plata - Banfield",
-    "Competicion": "Liga Argentina",
+    "dt": "1684592100",
+    "Partido": "Athletic de Bilbao - Celta de Vigo",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -80,9 +80,9 @@
     }
   },
   {
-    "dt": "1684542600",
-    "Partido": "Argentinos Juniors - Boca Juniors",
-    "Competicion": "Liga Argentina",
+    "dt": "1684600200",
+    "Partido": "Almería - Mallorca",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -96,8 +96,104 @@
     }
   },
   {
-    "dt": "1684542600",
-    "Partido": "Racing Club - Vélez Sársfield (Suspendido)",
+    "dt": "1684600200",
+    "Partido": "Nottingham Forest - Arsenal",
+    "Competicion": "Premier League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=6",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1684600200",
+    "Partido": "Bayern de Múnich - RB Leipzig",
+    "Competicion": "Bundesliga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=7",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1684602000",
+    "Partido": "San Lorenzo - Instituto AC Cordoba",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=8",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1684608300",
+    "Partido": "AC Milan - Sampdoria",
+    "Competicion": "Serie A",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1684609200",
+    "Partido": "Barcelona - Real Sociedad",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1684629000",
+    "Partido": "Lanús - Newell's Old Boys",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1684629000",
+    "Partido": "CA Tigre - Club Atlético Tucumán",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
