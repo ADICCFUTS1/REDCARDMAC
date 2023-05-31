@@ -25,28 +25,30 @@ const Card1 = (props) => {
 
   return (
     <div>
-      <Typography gutterBottom variant="h5" component="h2">
-        Evento destacado:
-      </Typography>
       {todo && (
-        <Card className={classes.root}>
-          <CardActionArea>
-            <CardMedia
-              className={classes.media}
-              image={todo.Image}
-              title={todo.Partido}
-            />
-            <CardContent>
-              <Typography>{todo.Competicion}:</Typography>
-              <Typography gutterBottom variant="h5" component="h2">
-                {getFormattedTime(todo)} {todo.Partido}
-              </Typography>
-            </CardContent>
-          </CardActionArea>
-          <CardActions>
-            <OldButtons {...todo} />
-          </CardActions>
-        </Card>
+        <>
+          <Typography gutterBottom variant="h5" component="h2">
+            Evento destacado ({todo.Evento}):
+          </Typography>
+          <Card className={classes.root}>
+            <CardActionArea>
+              <CardMedia
+                className={classes.media}
+                image={todo.Image}
+                title={todo.Partido}
+              />
+              <CardContent>
+                <Typography>{todo.Competicion}:</Typography>
+                <Typography gutterBottom variant="h5" component="h2">
+                  {getFormattedTime(todo)} {todo.Partido}
+                </Typography>
+              </CardContent>
+            </CardActionArea>
+            <CardActions>
+              <OldButtons {...todo} />
+            </CardActions>
+          </Card>
+        </>
       )}
     </div>
   );
