@@ -5,7 +5,7 @@
     "Competicion": "UEFA Europa League",
     "Image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/05/31/16854841806064.jpg",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=0",
       "valor2": "https://www.reactapps.tech/blog?txt=1",
@@ -14,6 +14,6 @@
       "valor5": "",
       "valor6": ""
     },
-    "Evento": "Final"
+    "Evento": "(Final)"
   }
 ]
