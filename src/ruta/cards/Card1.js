@@ -27,10 +27,10 @@ const Card1 = (props) => {
     <div>
       {todo && (
         <>
-          <Typography variant="h4">
+          {/* <Typography variant="h4">
             ¡Si te gusta la aplicación, considera apoyarnos con un clic en los
             anuncios!
-          </Typography>
+          </Typography> */}
           <p></p>
           <Typography gutterBottom variant="h5" component="h2">
             Evento destacado {todo.Evento}:
