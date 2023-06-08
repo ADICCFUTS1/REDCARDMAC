@@ -2,12 +2,12 @@
   {
     "dt": "1686261600",
     "Partido": "Goiás - Gimnasia La Plata",
-    "Competicion": "Conmebol Libertadores",
+    "Competicion": "Conmebol Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://www.reactapps.tech/blog?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -18,12 +18,12 @@
   {
     "dt": "1686261600",
     "Partido": "Danubio - Huracán",
-    "Competicion": "Conmebol Libertadores",
+    "Competicion": "Conmebol Sudamericana",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://www.reactapps.tech/blog?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -34,7 +34,7 @@
   {
     "dt": "1686268800",
     "Partido": "Flamengo - Racing Club",
-    "Competicion": "Conmebol Sudamericana",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
