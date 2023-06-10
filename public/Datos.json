@@ -1,13 +1,30 @@
 [
   {
-    "dt": "1686335400",
-    "Partido": "Barracas Central - Rosario Central",
+    "dt": "1686423600",
+    "Partido": "Manchester City - Inter de Milán",
+    "Competicion": "Champions League",
+    "Image": "https://cdn.milenio.com/uploads/media/2023/05/17/manchester-city-vs-inter-milan.jpg",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    },
+    "Evento": "(Final)"
+  },
+  {
+    "dt": "1686438000",
+    "Partido": "Boca Juniors - Lanús",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +33,14 @@
     }
   },
   {
-    "dt": "1686351600",
-    "Partido": "CA Independiente - Sarmiento",
+    "dt": "1686443400",
+    "Partido": "CA Talleres de Córdoba - Arsenal de Sarandí",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
