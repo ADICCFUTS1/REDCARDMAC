@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1686589200",
-    "Partido": "Newell's Old Boys - Unión de Santa Fe",
+    "dt": "1686690000",
+    "Partido": "Colón - Estudiantes de La Plata",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1686600000",
-    "Partido": "San Lorenzo - Central Córdoba SdE",
+    "dt": "1686690000",
+    "Partido": "Defensa y Justicia - Belgrano",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,46 +32,14 @@
     }
   },
   {
-    "dt": "1686608100",
-    "Partido": "Banfield - River Plate",
+    "dt": "1686699000",
+    "Partido": "Gimnasia La Plata - Huracán",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1686617100",
-    "Partido": "Instituto AC Cordoba - Racing Club",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1686617100",
-    "Partido": "Vélez Sársfield - Argentinos Juniors",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
