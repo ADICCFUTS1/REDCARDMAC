@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1687027500",
-    "Partido": "Bélgica - Austria",
-    "Competicion": "Eliminatorias Euro",
+    "dt": "1687093200",
+    "Partido": "Países Bajos - Italia",
+    "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,47 +16,15 @@
     }
   },
   {
-    "dt": "1687027500",
-    "Partido": "Portugal - Bosnia y Herzegovina",
-    "Competicion": "Eliminatorias Euro",
+    "dt": "1687113900",
+    "Partido": "Croacia - España",
+    "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1687035600",
-    "Partido": "Racing Club - Vélez Sársfield",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1687046400",
-    "Partido": "River Plate - Defensa y Justicia",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
-      "valor2": "",
+      "valor2": "https://www.reactapps.tech/blog?txt=2",
       "valor3": "",
       "valor4": "",
       "valor5": "",
