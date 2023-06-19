@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1687093200",
-    "Partido": "Países Bajos - Italia",
-    "Competicion": "Nationes League",
+    "dt": "1687200300",
+    "Partido": "Francia - Grecia",
+    "Competicion": "Eliminatorias Euro",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,15 +16,15 @@
     }
   },
   {
-    "dt": "1687113900",
-    "Partido": "Croacia - España",
-    "Competicion": "Nationes League",
+    "dt": "1687200300",
+    "Partido": "Inglaterra - Macedonia del Norte",
+    "Competicion": "Eliminatorias Euro",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
-      "valor2": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
