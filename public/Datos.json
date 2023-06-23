@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1687464000",
-    "Partido": "CA Tigre - Vélez Sársfield",
+    "dt": "1687636800",
+    "Partido": "Unión de Santa Fe - CA Independiente",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,46 +16,14 @@
     }
   },
   {
-    "dt": "1687467600",
-    "Partido": "Racing Club - Barracas Central",
+    "dt": "1687647600",
+    "Partido": "Lanús - CA Talleres de Córdoba",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1687473900",
-    "Partido": "River Plate - Instituto AC Cordoba",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1687481100",
-    "Partido": "Godoy Cruz - Boca Juniors",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
