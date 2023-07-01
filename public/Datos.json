@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1688162400",
-    "Partido": "CA Platense - Lanús",
+    "dt": "1688234400",
+    "Partido": "Barracas Central - River Plate",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1688171400",
-    "Partido": "Vélez Sársfield - Arsenal de Sarandí",
+    "dt": "1688243400",
+    "Partido": "San Lorenzo - Rosario Central",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +32,30 @@
     }
   },
   {
-    "dt": "1688171400",
-    "Partido": "Club Atlético Tucumán - Unión de Santa Fe",
+    "dt": "1688248800",
+    "Partido": "Estudiantes de La Plata - Central Córdoba SdE",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1688257800",
+    "Partido": "CA Talleres de Córdoba - Godoy Cruz",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
