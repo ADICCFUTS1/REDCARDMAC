@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1688234400",
-    "Partido": "Barracas Central - River Plate",
+    "dt": "1688320800",
+    "Partido": "CA Independiente - Huracán",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1688243400",
-    "Partido": "San Lorenzo - Rosario Central",
+    "dt": "1688328000",
+    "Partido": "Colón - Racing Club",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +32,14 @@
     }
   },
   {
-    "dt": "1688248800",
-    "Partido": "Estudiantes de La Plata - Central Córdoba SdE",
+    "dt": "1688337000",
+    "Partido": "Banfield - Argentinos Juniors",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -48,14 +48,30 @@
     }
   },
   {
-    "dt": "1688257800",
-    "Partido": "CA Talleres de Córdoba - Godoy Cruz",
+    "dt": "1688337000",
+    "Partido": "Defensa y Justicia - CA Tigre",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1688344200",
+    "Partido": "Boca Juniors - Sarmiento",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
