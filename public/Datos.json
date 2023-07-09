@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1688850000",
-    "Partido": "Estudiantes de La Plata - Racing Club",
+    "dt": "1688936400",
+    "Partido": "Vélez Sársfield - Godoy Cruz",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,30 @@
     }
   },
   {
-    "dt": "1688859000",
-    "Partido": "San Lorenzo - River Plate",
+    "dt": "1688945400",
+    "Partido": "Banfield - Arsenal de Sarandí",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1688945400",
+    "Partido": "Defensa y Justicia - Lanús",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
