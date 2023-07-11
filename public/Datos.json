@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1689017400",
-    "Partido": "Colón - Belgrano",
+    "dt": "1689111900",
+    "Partido": "Rosario Central - Central Córdoba SdE",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1689028200",
-    "Partido": "Boca Juniors - Huracán",
+    "dt": "1689116400",
+    "Partido": "CA Independiente - Newell's Old Boys",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +32,30 @@
     }
   },
   {
-    "dt": "1689035400",
-    "Partido": "CA Talleres de Córdoba - Unión de Santa Fe",
+    "dt": "1689120000",
+    "Partido": "Barcelona Sporting Club - Estudiantes de La Plata",
+    "Competicion": "Conmebol Sudamericana",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1689121800",
+    "Partido": "Club Atlético Tucumán - Gimnasia La Plata",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
