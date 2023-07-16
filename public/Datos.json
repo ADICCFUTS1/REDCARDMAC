@@ -1,7 +1,7 @@
 [
   {
-    "dt": "1689447600",
-    "Partido": "Racing Club - Rosario Central",
+    "dt": "1689526800",
+    "Partido": "Belgrano - San Lorenzo",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,14 +16,62 @@
     }
   },
   {
-    "dt": "1689458400",
-    "Partido": "River Plate - Estudiantes de La Plata",
+    "dt": "1689535800",
+    "Partido": "Gimnasia La Plata - Boca Juniors",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1689544800",
+    "Partido": "Lanús - Banfield",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1689553800",
+    "Partido": "Argentinos Juniors - Colón",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=3",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1689553800",
+    "Partido": "Central Córdoba SdE - CA Independiente",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "https://www.reactapps.tech/blog?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
