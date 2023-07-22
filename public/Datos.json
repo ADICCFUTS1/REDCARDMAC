@@ -21,7 +21,7 @@
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=1",
       "valor2": "",
@@ -37,7 +37,7 @@
     "Competicion": "Amistoso",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://www.reactapps.tech/blog?txt=2",
       "valor2": "",
@@ -53,9 +53,9 @@
     "Competicion": "Amistoso",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://www.reactapps.tech/blog?txt=3",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -69,9 +69,9 @@
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://www.reactapps.tech/blog?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -81,7 +81,7 @@
   },
   {
     "dt": "1690079400",
-    "Partido": "Barcelona - Juventus",
+    "Partido": "Barcelona - Juventus (Suspendido)",
     "Competicion": "Amistoso",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
