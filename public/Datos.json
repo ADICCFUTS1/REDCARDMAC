@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1690050600",
-    "Partido": "San Lorenzo - Argentinos Juniors",
+    "dt": "1690140600",
+    "Partido": "Club Atlético Tucumán - CA Independiente",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1690059600",
-    "Partido": "Estudiantes de La Plata - Belgrano",
+    "dt": "1690148700",
+    "Partido": "Defensa y Justicia - Sarmiento",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,46 +32,14 @@
     }
   },
   {
-    "dt": "1690059600",
-    "Partido": "Arsenal - Manchester United",
-    "Competicion": "Amistoso",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1690066800",
-    "Partido": "Chelsea - Brighton",
-    "Competicion": "Amistoso",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1690068600",
-    "Partido": "CA Platense - Huracán",
+    "dt": "1690156800",
+    "Partido": "Rosario Central - River Plate",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -80,9 +48,9 @@
     }
   },
   {
-    "dt": "1690079400",
-    "Partido": "Barcelona - Juventus (Suspendido)",
-    "Competicion": "Amistoso",
+    "dt": "1690164000",
+    "Partido": "Real Madrid - AC Milan",
+    "Competicion": "FA Cup",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
