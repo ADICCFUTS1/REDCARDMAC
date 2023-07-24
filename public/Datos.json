@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1690140600",
-    "Partido": "Club Atlético Tucumán - CA Independiente",
+    "dt": "1690227000",
+    "Partido": "CA Talleres de Córdoba - Gimnasia La Plata",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1690148700",
-    "Partido": "Defensa y Justicia - Sarmiento",
+    "dt": "1690227000",
+    "Partido": "Vélez Sársfield - Unión de Santa Fe",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +32,14 @@
     }
   },
   {
-    "dt": "1690156800",
-    "Partido": "Rosario Central - River Plate",
+    "dt": "1690234200",
+    "Partido": "Banfield - Godoy Cruz",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -48,15 +48,31 @@
     }
   },
   {
-    "dt": "1690164000",
-    "Partido": "Real Madrid - AC Milan",
-    "Competicion": "Amistoso",
+    "dt": "1690237800",
+    "Partido": "Racing Club - Central Córdoba SdE",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=3",
-      "valor2": "https://www.reactapps.tech/blog?txt=4",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1690242300",
+    "Partido": "Boca Juniors - Newell's Old Boys",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": "",
