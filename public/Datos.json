@@ -1,13 +1,13 @@
 [
   {
-    "dt": "1690318800",
-    "Partido": "Colón - CA Tigre",
-    "Competicion": "Liga Argentina",
+    "dt": "1690416900",
+    "Partido": "Newcastle - Chelsea",
+    "Competicion": "Amistoso",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -16,14 +16,14 @@
     }
   },
   {
-    "dt": "1690327800",
-    "Partido": "Inter Miami CF - Atlanta United",
-    "Competicion": "Leagues Cup",
+    "dt": "1690417800",
+    "Partido": "Real Madrid - Manchester United",
+    "Competicion": "Amistoso",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -32,14 +32,30 @@
     }
   },
   {
-    "dt": "1690327800",
-    "Partido": "Instituto AC Cordoba - Lanús",
-    "Competicion": "Liga Argentina",
+    "dt": "1690425000",
+    "Partido": "Juventus - AC Milan",
+    "Competicion": "Amistoso",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://www.reactapps.tech/blog?txt=2",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1690425000",
+    "Partido": "Arsenal - Barcelona",
+    "Competicion": "Amistoso",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
